@@ -1,6 +1,31 @@
-# Awesome-Hypergraph-Learning / Hypergraph Theory
-## Survey
-- <a name="todo"></a> A continual learning survey: Defying forgetting in classification tasks (**TPAMI, 2021**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9349197) [[arxiv](https://arxiv.org/pdf/1909.08383.pdf)]
+# Awesome Hypergraph Learning
+
+## Surveys
+- <a name="todo"></a> Hypergraph Learning: Methods and Practices (**TPAMI, 2020**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9349197) 
 ## Papers
 
+### 2021
 
+### 2020
+
+### 2019
+
+### 2018
+
+### 2017
+
+### 2016
+
+# Awesome Hypergraph Theory
+
+### 2021
+
+### 2020
+
+### 2019
+
+### 2018
+
+### 2017
+
+### 2016
