@@ -11,6 +11,12 @@
 (**AAAI, 2022**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20787)]
 - <a name="todo"></a> The Impact of Selfishness in Hypergraph Hedonic Games 
 (**AAAI, 2020**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5542)]
+- <a name="todo"></a> Hypergraph Label Propagation Network 
+(**AAAI, 2020**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6170)]
+- <a name="todo"></a> Hypergraph p-Laplacian: A Differential Geometry View 
+(**AAAI, 2018**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11823)]
+- <a name="todo"></a> Hypergraph Learning With Cost Interval Optimization 
+(**AAAI, 2018**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11761)]
 ## Journal Papers
 
 ### IEEE Transactions on Pattern Analysis and Machine Intelligence
