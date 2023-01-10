@@ -33,8 +33,6 @@
 (**KDD, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3394486.3403389)]
 - <a name="todo"></a> E-tail Product Return Prediction via Hypergraph-based Local Graph Cut
 (**KDD, 2018**) [[paper](https://dl.acm.org/doi/10.1145/3219819.3219829)]
-- <a name="todo"></a> E-tail Product Return Prediction via Hypergraph-based Local Graph Cut
-(**KDD, 2017**) [[paper](https://dl.acm.org/doi/10.1145/3219819.3219829)]
 
 ### AAAI Conference on Artificial Intelligence
 - <a name="todo"></a> Hypergraph Modeling via Spectral Embedding Connection: Hypergraph Cut, Weighted Kernel k-Means, and Heat Kernel 
