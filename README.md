@@ -94,6 +94,18 @@
 - <a name="todo"></a> Hyper-SAGNN: a self-attention based graph neural network for hypergraphs
 (**ICLR, 2020**) [[paper](https://openreview.net/forum?id=ryeHuJBtPH)]
 
+### International Conference on Machine Learning
+- <a name="todo"></a> Nonlinear Feature Diffusion on Hypergraphs
+(**ICML, 2022**) [[paper](https://proceedings.mlr.press/v162/prokopchik22a.html)]
+- <a name="todo"></a> Two Heads are Better Than One: Hypergraph-Enhanced Graph Reasoning for Visual Event Ratiocination
+(**ICML, 2021**) [[paper](https://proceedings.mlr.press/v139/zheng21b.html)]
+- <a name="todo"></a> Random Walks on Hypergraphs with Edge-Dependent Vertex Weights
+(**ICML, 2019**) [[paper](https://proceedings.mlr.press/v97/chitra19a.html)]
+- <a name="todo"></a> Molecular Hypergraph Grammar with Its Application to Molecular Optimization
+(**ICML, 2019**) [[paper](https://proceedings.mlr.press/v97/kajino19a.html)]
+- <a name="todo"></a> Submodular Hypergraphs: p-Laplacians, Cheeger Inequalities and Spectral Clustering
+(**ICML, 2018**) [[paper](https://proceedings.mlr.press/v80/li18e.html)]
+
 ## Journal Papers
 
 ### IEEE Transactions on Pattern Analysis and Machine Intelligence
