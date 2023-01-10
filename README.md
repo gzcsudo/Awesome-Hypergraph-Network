@@ -19,8 +19,6 @@
 (**SIGIR, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3404835.3463092)]
 - <a name="todo"></a> Next-item Recommendation with Sequential Hypergraphs
 (**SIGIR, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3397271.3401133)]
-- <a name="todo"></a> Next-item Recommendation with Sequential Hypergraphs
-(**SIGIR, 2019**) [[paper](https://dl.acm.org/doi/10.1145/3397271.3401133)]
 
 ### Annual Conference on Neural Information Processing Systems
 - <a name="todo"></a> SHINE: SubHypergraph Inductive Neural nEtwork
