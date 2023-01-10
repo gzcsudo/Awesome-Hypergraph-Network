@@ -6,6 +6,22 @@
 
 ## Conference Papers
 
+### International Conference on Research on Development in Information Retrieval
+- <a name="todo"></a> Co-clustering Interactions via Attentive Hypergraph Neural Network
+(**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531868)]
+- <a name="todo"></a> Hypergraph Contrastive Collaborative Filtering
+(**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3477495.3532058)]
+- <a name="todo"></a> Enhancing Hypergraph Neural Networks with Intent Disentanglement for Session-based Recommendation
+(**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531794)]
+- <a name="todo"></a> DH-HGCN: Dual Homogeneity Hypergraph Convolutional Network for Multiple Social Recommendations
+(**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531828)]
+- <a name="todo"></a> Communication Efficient Distributed Hypergraph Clustering
+(**SIGIR, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3404835.3463092)]
+- <a name="todo"></a> Next-item Recommendation with Sequential Hypergraphs
+(**SIGIR, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3397271.3401133)]
+- <a name="todo"></a> Next-item Recommendation with Sequential Hypergraphs
+(**SIGIR, 2019**) [[paper](https://dl.acm.org/doi/10.1145/3397271.3401133)]
+
 ### Annual Conference on Neural Information Processing Systems
 - <a name="todo"></a> SHINE: SubHypergraph Inductive Neural nEtwork
 (**NeurIPS, 2022**) [[paper](https://openreview.net/forum?id=IsHRUzXPqhI)]
