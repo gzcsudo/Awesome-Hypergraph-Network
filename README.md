@@ -110,7 +110,7 @@
 
 ### International Joint Conference on Artificial Intelligence
 - <a name="todo"></a> Hypertron: Explicit Social-Temporal Hypergraph Framework for Multi-Agent Forecasting
-(**IJCAI, 2022**) [[paper](https://www.ijcai.org/Proceedings/2017/501)]
+(**IJCAI, 2022**) [[paper](https://www.ijcai.org/proceedings/2022/189)]
 - <a name="todo"></a> Hypergraph Structure Learning for Hypergraph Neural Networks
 (**IJCAI, 2022**) [[paper](https://www.ijcai.org/proceedings/2022/267)]
 - <a name="todo"></a> Online ECG Emotion Recognition for Unknown Subjects via Hypergraph-Based Transfer Learning
