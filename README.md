@@ -17,7 +17,24 @@
 (**KDD, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539342)]
 - <a name="todo"></a> Generalizable Floorplanner through Corner Block List Representation and Hypergraph Embedding
 (**KDD, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539220)]
-
+- <a name="todo"></a> H2MN: Graph Similarity Learning with Hierarchical Hypergraph Matching Networks
+(**KDD, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3447548.3467328)]
+- <a name="todo"></a> Structural Patterns and Generative Models of Real-world Hypergraphs
+(**KDD, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3394486.3403060)]
+- <a name="todo"></a> Minimizing Localized Ratio Cut Objectives in Hypergraphs
+(**KDD, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3394486.3403222)]
+- <a name="todo"></a> Parameterized Correlation Clustering in Hypergraphs and Bipartite Graphs
+(**KDD, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3394486.3403238)]
+- <a name="todo"></a> Hypergraph Clustering Based on PageRank
+(**KDD, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3394486.3403248)]
+- <a name="todo"></a> Dual Channel Hypergraph Collaborative Filtering
+(**KDD, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3394486.3403253)]
+- <a name="todo"></a> Hypergraph Convolutional Recurrent Neural Network
+(**KDD, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3394486.3403389)]
+- <a name="todo"></a> E-tail Product Return Prediction via Hypergraph-based Local Graph Cut
+(**KDD, 2018**) [[paper](https://dl.acm.org/doi/10.1145/3219819.3219829)]
+- <a name="todo"></a> E-tail Product Return Prediction via Hypergraph-based Local Graph Cut
+(**KDD, 2017**) [[paper](https://dl.acm.org/doi/10.1145/3219819.3219829)]
 
 ### AAAI Conference on Artificial Intelligence
 - <a name="todo"></a> Hypergraph Modeling via Spectral Embedding Connection: Hypergraph Cut, Weighted Kernel k-Means, and Heat Kernel 
