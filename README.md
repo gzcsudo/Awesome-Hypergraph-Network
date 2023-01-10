@@ -6,7 +6,7 @@
 ## Conference Papers
 
 ### AAAI Conference on Artificial Intelligence
-- <a name="todo"></a> Hypergraph Learning: Methods and Practices (**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9264674)]
+- <a name="todo"></a> Hypergraph Modeling via Spectral Embedding Connection: Hypergraph Cut, Weighted Kernel k-Means, and Heat Kernel (**AAAI, 2022**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20787)]
 ## Journal Papers
 
 ### IEEE Transactions on Pattern Analysis and Machine Intelligence
