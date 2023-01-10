@@ -84,8 +84,12 @@
 
 # Hypergraph Theory
 
-## Journal Papers
-
-### 2020
-
 ## Conference Papers
+
+### Conference on Learning Theory
+- <a name="todo"></a> Learning Low Degree Hypergraphs
+(**COLT, 2022**) [[paper](https://proceedings.mlr.press/v178/balkanski22a.html)]
+- <a name="todo"></a> Open Problem: Average-Case Hardness of Hypergraphic Planted Clique Detection
+(**COLT, 2020**) [[paper](http://proceedings.mlr.press/v125/luo20a.html)]
+
+## Journal Papers
