@@ -87,6 +87,8 @@
 (**ICLR, 2023**) [[paper](https://openreview.net/forum?id=RiTjKoscnNd)]
 - <a name="todo"></a> Ollivier-Ricci Curvature for Hypergraphs: A Unified Framework
 (**ICLR, 2023**) [[paper](https://openreview.net/forum?id=sPCKNl5qDps)]
+- <a name="todo"></a> You are AllSet: A Multiset Function Framework for Hypergraph Neural Networks 
+(**ICLR, 2022**) [[paper](https://openreview.net/forum?id=hpBTIv2uy_E)]
 - <a name="todo"></a> Efficient Training and Inference of Hypergraph Reasoning Networks
 (**ICLR, 2022**) [[paper](https://openreview.net/forum?id=WKWAkkXGpWN)]
 - <a name="todo"></a> On the Expressiveness and Learning of Relational Neural Networks on Hypergraphs
@@ -95,8 +97,6 @@
 (**ICLR, 2022**) [[paper](https://openreview.net/forum?id=7Z7u2z1Ornl)]
 - <a name="todo"></a> Hypergraph Convolutional Networks via Equivalency between Hypergraphs and Undirected Graphs
 (**ICLR, 2022**) [[paper](https://openreview.net/forum?id=zFyCvjXof60)]
-- <a name="todo"></a> You are AllSet: A Multiset Function Framework for Hypergraph Neural Networks 
-(**ICLR, 2022**) [[paper](https://openreview.net/forum?id=hpBTIv2uy_E)]
 - <a name="todo"></a> Learning to Represent Action Values as a Hypergraph on the Action Vertices
 (**ICLR, 2021**) [[paper](https://openreview.net/forum?id=Xv_s64FiXTv)]
 - <a name="todo"></a> Hyper-SAGNN: a self-attention based graph neural network for hypergraphs
