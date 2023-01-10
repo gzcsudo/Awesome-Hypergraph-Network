@@ -4,7 +4,7 @@
 - <a name="todo"></a> Hypergraph Learning: Methods and Practices (**TPAMI, 2020**) [[paper](https://ieeexplore.ieee.org/abstract/document/9264674)]
 ## Papers
 
-### 2021
+### IEEE Transactions on Pattern Analysis and Machine Intelligence
 
 ### 2020
 
