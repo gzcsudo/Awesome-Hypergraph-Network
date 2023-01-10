@@ -34,7 +34,7 @@
 - <a name="todo"></a> Hypergraph Learning With Cost Interval Optimization 
 (**AAAI, 2018**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11761)]
 
-### International Conference on Artificial Intelligence and Statistics
+### Artificial Intelligence and Statistics
 - <a name="todo"></a> Hypergraph Simultaneous Generators 
 (**AISTATS, 2022**) [[paper](https://proceedings.mlr.press/v151/pedrood22a.html)]
 - <a name="todo"></a> Statistical and computational thresholds for the planted k-densest sub-hypergraph problem
@@ -46,7 +46,7 @@
 - <a name="todo"></a> Submodularity on Hypergraphs: From Sets to Sequences
 (**AISTATS, 2018**) [[paper](https://proceedings.mlr.press/v84/mitrovic18a.html)]
 
-### International Conference on Information & Knowledge Management
+### ACM International Conference on Information and Knowledge Management
 - <a name="todo"></a> Semi-supervised Hypergraph Node Classification on Hypergraph Line Expansion
 (**CIKM, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3511808.3557447)]
 - <a name="todo"></a> Click-Through Rate Prediction with Multi-Modal Hypergraphs
@@ -143,17 +143,6 @@
 
 ## Journal Papers
 
-### IEEE Transactions on Pattern Analysis and Machine Intelligence
-
-### IEEE Transactions on Neural Networks and Learning Systems
-
-### IEEE Transactions on Knowledge and Data Engineering
-
-### IEEE Transactions on Image Processing
-
-### IEEE Transactions on Cybernetics
-
-
 
 # Hypergraph Theory
 
@@ -165,7 +154,7 @@
 - <a name="todo"></a> Open Problem: Average-Case Hardness of Hypergraphic Planted Clique Detection
 (**COLT, 2020**) [[paper](http://proceedings.mlr.press/v125/luo20a.html)]
 
-### Annual European Symposium on Algorithms
+### European Symposium on Algorithms
 - <a name="todo"></a> Fully Dynamic Set Cover via Hypergraph Maximal Matching: An Optimal Approximation Through a Local Approach
 (**ESA, 2021**) [[paper](https://drops.dagstuhl.de/opus/volltexte/2021/14589/)]
 - <a name="todo"></a> The Minimization of Random Hypergraphs
@@ -179,7 +168,7 @@
 - <a name="todo"></a> Clustering in Hypergraphs to Minimize Average Edge Service Time
 (**ESA, 2017**) [[paper](https://drops.dagstuhl.de/opus/volltexte/2017/7877/)]
 
-### Annual Symposium on Foundations of Computer Science
+### IEEE Annual Symposium on Foundations of Computer Science
 - <a name="todo"></a> Sparse random hypergraphs: Non-backtracking spectra and community detection
 (**FOCS, 2022**) [[paper](https://ieeexplore.ieee.org/document/9996873)]
 - <a name="todo"></a> Performance and limitations of the QAOA at constant levels on large sparse hypergraphs and spin glass models
