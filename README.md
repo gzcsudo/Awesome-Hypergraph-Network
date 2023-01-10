@@ -47,8 +47,26 @@
 (**AISTATS, 2018**) [[paper](https://proceedings.mlr.press/v84/mitrovic18a.html)]
 
 ### International Conference on Information & Knowledge Management
+- <a name="todo"></a> Semi-supervised Hypergraph Node Classification on Hypergraph Line Expansion
+(**CIKM, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3511808.3557447)]
 - <a name="todo"></a> Click-Through Rate Prediction with Multi-Modal Hypergraphs
 (**CIKM, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3459637.3482327)]
+- <a name="todo"></a> Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation
+(**CIKM, 2021**) [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482426)]
+- <a name="todo"></a> Hyperbolic Hypergraphs for Sequential Recommendation
+(**CIKM, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3459637.3482351)]
+- <a name="todo"></a> HyperGraph Convolution Based Attributed HyperGraph Clustering
+(**CIKM, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3459637.3482437)]
+- <a name="todo"></a> Hypergraph Random Walks, Laplacians, and Clustering
+(**CIKM, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3340531.3412034)]
+- <a name="todo"></a> NHP: Neural Hypergraph Link Prediction
+(**CIKM, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3340531.3411870)]
+- <a name="todo"></a> Modeling Multi-way Relations with Hypergraph Embedding
+(**CIKM, 2018**) [[paper](https://dl.acm.org/doi/10.1145/3269206.3269274)]
+- <a name="todo"></a> Computing Betweenness Centrality in B-hypergraphs
+(**CIKM, 2017**) [[paper](https://dl.acm.org/doi/10.1145/3132847.3133093)]
+- <a name="todo"></a> Maintaining Densest Subsets Efficiently in Evolving Hypergraphs
+(**CIKM, 2017**) [[paper](https://dl.acm.org/doi/abs/10.1145/3132847.3132907)]
 
 ## Journal Papers
 
