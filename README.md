@@ -2,17 +2,17 @@
 
 ## Surveys
 - <a name="todo"></a> Hypergraph Learning: Methods and Practices (**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9264674)]
-## Papers
+## Journal Papers
 
-### IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+### IEEE Transactions on Pattern Analysis and Machine Intelligence
 
-### 2020
+### IEEE Transactions on Neural Networks and Learning Systems
 
-### 2019
+### IEEE Transactions on Knowledge and Data Engineering
 
-### 2018
+### IEEE Transactions on Image Processing
 
-### 2017
+### IEEE Transactions on Cybernetics
 
 ### 2016
 
