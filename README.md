@@ -82,6 +82,10 @@
 - <a name="todo"></a> Evolution of Real-World Hypergraphs: Patterns and Models without Oracles
 (**ICDM, 2020**) [[paper](https://ieeexplore.ieee.org/document/9338313)]
 
+### International Conference on Learning Representations
+- <a name="todo"></a> Efficient Training and Inference of Hypergraph Reasoning Networks
+(**ICLR, 2022**) [[paper](https://openreview.net/forum?id=WKWAkkXGpWN)]
+
 ## Journal Papers
 
 ### IEEE Transactions on Pattern Analysis and Machine Intelligence
