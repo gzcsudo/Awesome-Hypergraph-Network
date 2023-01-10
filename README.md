@@ -1,8 +1,8 @@
-# Hypergraph Learning
-
-## Surveys
+# Hypergraph Survey
 - <a name="todo"></a> Hypergraph Learning: Methods and Practices 
 (**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9264674)]
+
+# Hypergraph Learning
 
 ## Conference Papers
 
