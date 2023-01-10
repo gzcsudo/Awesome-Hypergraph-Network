@@ -1,6 +1,6 @@
 # Hypergraph Survey
-- <a name="todo"></a> Hypergraph Learning: Methods and Practices 
-(**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9264674)]
+- <a name="todo"></a> Hypergraph Learning: Methods and Practices
+(**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9264674)]
 
 # Hypergraph Learning
 
@@ -227,6 +227,30 @@
 (**ICDM, 2020**) [[paper](https://ieeexplore.ieee.org/document/9338313)]
 
 ## Journal Papers
+
+### IEEE Transactions on Pattern Analysis and Machine Intelligence
+- <a name="todo"></a> Hypergraph Learning: Methods and Practices
+(**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9264674)]
+- <a name="todo"></a> HGNN+: General Hypergraph Neural Networks
+(**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9795251)]
+- <a name="todo"></a> Neural Graph Matching Network: Learning Lawler’s Quadratic Assignment Problem With Extension to Hypergraph and Multiple-Graph Matching
+(**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9426408)]
+- <a name="todo"></a> Generating Hypergraph-Based High-Order Representations of Whole-Slide Histopathological Images for Survival Prediction
+(**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9903546)]
+- <a name="todo"></a> Heterogeneous Hypergraph Variational Autoencoder for Link Prediction
+(**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9354594)]
+- <a name="todo"></a> Hypergraph Collaborative Network on Vertices and Hyperedges
+(**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9782536)]
+- <a name="todo"></a> Learning on Hypergraphs With Sparsity
+(**TPAMI, 2021**) [[paper](https://ieeexplore.ieee.org/document/9001176)]
+- <a name="todo"></a> Searching for Representative Modes on Hypergraphs for Robust Geometric Model Fitting
+(**TPAMI, 2019**) [[paper](https://ieeexplore.ieee.org/document/8283797)]
+- <a name="todo"></a> Clustering with Hypergraphs: The Case for Large Hyperedges
+(**TPAMI, 2017**) [[paper](https://ieeexplore.ieee.org/document/7582510)]
+- <a name="todo"></a> An Efficient Multilinear Optimization Framework for Hypergraph Matching
+(**TPAMI, 2017**) [[paper](https://ieeexplore.ieee.org/document/7482852)]
+- <a name="todo"></a> Exploiting Hierarchical Dense Structures on Hypergraphs for Multi-Object Tracking
+(**TPAMI, 2016**) [[paper](https://ieeexplore.ieee.org/document/7360186)]
 
 
 # Hypergraph Theory
