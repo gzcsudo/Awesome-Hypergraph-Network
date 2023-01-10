@@ -204,3 +204,9 @@
 (**FOCS, 2017**) [[paper](https://ieeexplore.ieee.org/document/8104057)]
 
 ## Journal Papers
+
+### Journal of Machine Learning Research
+- <a name="todo"></a> Nonparametric modeling of higher-order interactions via hypergraphons
+(**JMLR, 2021**) [[paper](https://dl.acm.org/doi/10.5555/3546258.3546404)]
+- <a name="todo"></a> Uniform Hypergraph Partitioning: Provable Tensor Methods and Sampling Techniques
+(**JMLR, 2017**) [[paper](https://dl.acm.org/doi/abs/10.5555/3122009.3153006)]
