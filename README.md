@@ -93,7 +93,18 @@
 (**COLT, 2020**) [[paper](http://proceedings.mlr.press/v125/luo20a.html)]
 
 ### European Symposium on Algorithms
+- <a name="todo"></a> Fully Dynamic Set Cover via Hypergraph Maximal Matching: An Optimal Approximation Through a Local Approach
+(**ESA, 2021**) [[paper](https://drops.dagstuhl.de/opus/volltexte/2021/14589/)]
+- <a name="todo"></a> The Minimization of Random Hypergraphs
+(**ESA, 2020**) [[paper](https://drops.dagstuhl.de/opus/volltexte/2020/12887/)]
+- <a name="todo"></a> Distributed Algorithms for Matching in Hypergraphs
+(**ESA, 2020**) [[paper](https://dl.acm.org/doi/abs/10.1007/978-3-030-80879-2_3)]
+- <a name="todo"></a> Dense Peelable Random Uniform Hypergraphs
+(**ESA, 2019**) [[paper](https://drops.dagstuhl.de/opus/volltexte/2019/11159/)]
+- <a name="todo"></a> Evaluation of a Flow-Based Hypergraph Bipartitioning Algorithm
+(**ESA, 2019**) [[paper](https://drops.dagstuhl.de/opus/volltexte/2019/11173/)]
 - <a name="todo"></a> Clustering in Hypergraphs to Minimize Average Edge Service Time
 (**ESA, 2017**) [[paper](https://drops.dagstuhl.de/opus/volltexte/2017/7877/)]
+
 
 ## Journal Papers
