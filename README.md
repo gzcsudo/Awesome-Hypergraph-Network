@@ -6,41 +6,19 @@
 
 ## Conference Papers
 
-### International World Wide Web Conferences
-- <a name="todo"></a> IHGNN: Interactive Hypergraph Neural Network for Personalized Product Search
-(**WWW, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3485447.3511954)]
-- <a name="todo"></a> MiDaS: Representative Sampling from Real-world Hypergraphs
-(**WWW, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3485447.3512157)]
-- <a name="todo"></a> Strongly Local Hypergraph Diffusions for Clustering and Semi-supervised Learning
-(**WWW, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3442381.3449887)]
-- <a name="todo"></a> Multiplex Bipartite Network Embedding using Dual Hypergraph Convolutional Networks
-(**WWW, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3442381.3449954)]
-- <a name="todo"></a> Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation
-(**WWW, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3442381.3449844)]
-- <a name="todo"></a> How Do Hyperedges Overlap in Real-World Hypergraphs? - Patterns, Measures, and Generators
-(**WWW, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3442381.3450010)]
-- <a name="todo"></a> How Much and When Do We Need Higher-order Information in Hypergraphs? A Case Study on Hyperedge Prediction
-(**WWW, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3366423.3380016)]
-- <a name="todo"></a> Clustering in graphs and hypergraphs with categorical edge labels
-(**WWW, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3366423.3380152)]
-- <a name="todo"></a> Revisiting User Mobility and Social Relationships in LBSNs: A Hypergraph Embedding Approach
-(**WWW, 2019**) [[paper](https://dl.acm.org/doi/10.1145/3308558.3313635)]
-- <a name="todo"></a> Learning on Partial-Order Hypergraphs
-(**WWW, 2018**) [[paper](https://dl.acm.org/doi/10.1145/3178876.3186064)]
-
-### International Conference on Research on Development in Information Retrieval
-- <a name="todo"></a> Co-clustering Interactions via Attentive Hypergraph Neural Network
-(**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531868)]
-- <a name="todo"></a> Hypergraph Contrastive Collaborative Filtering
-(**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3477495.3532058)]
-- <a name="todo"></a> Enhancing Hypergraph Neural Networks with Intent Disentanglement for Session-based Recommendation
-(**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531794)]
-- <a name="todo"></a> DH-HGCN: Dual Homogeneity Hypergraph Convolutional Network for Multiple Social Recommendations
-(**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531828)]
-- <a name="todo"></a> Communication Efficient Distributed Hypergraph Clustering
-(**SIGIR, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3404835.3463092)]
-- <a name="todo"></a> Next-item Recommendation with Sequential Hypergraphs
-(**SIGIR, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3397271.3401133)]
+### International Conference on Machine Learning
+- <a name="todo"></a> Nonlinear Feature Diffusion on Hypergraphs
+(**ICML, 2022**) [[paper](https://proceedings.mlr.press/v162/prokopchik22a.html)]
+- <a name="todo"></a> Two Heads are Better Than One: Hypergraph-Enhanced Graph Reasoning for Visual Event Ratiocination
+(**ICML, 2021**) [[paper](https://proceedings.mlr.press/v139/zheng21b.html)]
+- <a name="todo"></a> Random Walks on Hypergraphs with Edge-Dependent Vertex Weights
+(**ICML, 2019**) [[paper](https://proceedings.mlr.press/v97/chitra19a.html)]
+- <a name="todo"></a> Molecular Hypergraph Grammar with Its Application to Molecular Optimization
+(**ICML, 2019**) [[paper](https://proceedings.mlr.press/v97/kajino19a.html)]
+- <a name="todo"></a> Submodular Hypergraphs: p-Laplacians, Cheeger Inequalities and Spectral Clustering
+(**ICML, 2018**) [[paper](https://proceedings.mlr.press/v80/li18e.html)]
+- <a name="todo"></a> Re-revisiting Learning on Hypergraphs: Confidence Interval and Subgradient Method
+(**ICML, 2017**) [[paper](https://proceedings.mlr.press/v70/zhang17d.html)]
 
 ### Annual Conference on Neural Information Processing Systems
 - <a name="todo"></a> SHINE: SubHypergraph Inductive Neural nEtwork
@@ -63,6 +41,18 @@
 (**NeurIPS, 2019**) [[paper](https://papers.nips.cc/paper/2019/hash/1efa39bcaec6f3900149160693694536-Abstract.html)]
 - <a name="todo"></a> Inhomogeneous Hypergraph Clustering with Applications
 (**NeurIPS, 2017**) [[paper](https://proceedings.neurips.cc/paper/2017/hash/a50abba8132a77191791390c3eb19fe7-Abstract.html)]
+
+### International Conference on Learning Representations
+- <a name="todo"></a> Equivariant Hypergraph Diffusion Neural Operators
+(**ICLR, 2023**) [[paper](https://openreview.net/forum?id=RiTjKoscnNd)]
+- <a name="todo"></a> Ollivier-Ricci Curvature for Hypergraphs: A Unified Framework
+(**ICLR, 2023**) [[paper](https://openreview.net/forum?id=sPCKNl5qDps)]
+- <a name="todo"></a> You are AllSet: A Multiset Function Framework for Hypergraph Neural Networks 
+(**ICLR, 2022**) [[paper](https://openreview.net/forum?id=hpBTIv2uy_E)]
+- <a name="todo"></a> Learning to Represent Action Values as a Hypergraph on the Action Vertices
+(**ICLR, 2021**) [[paper](https://openreview.net/forum?id=Xv_s64FiXTv)]
+- <a name="todo"></a> Hyper-SAGNN: a self-attention based graph neural network for hypergraphs
+(**ICLR, 2020**) [[paper](https://openreview.net/forum?id=ryeHuJBtPH)]
 
 ### ACM Knowledge Discovery and Data Mining
 - <a name="todo"></a> Learning Causal Effects on Hypergraphs
@@ -92,6 +82,54 @@
 - <a name="todo"></a> E-tail Product Return Prediction via Hypergraph-based Local Graph Cut
 (**KDD, 2018**) [[paper](https://dl.acm.org/doi/10.1145/3219819.3219829)]
 
+### International Conference on Research on Development in Information Retrieval
+- <a name="todo"></a> Co-clustering Interactions via Attentive Hypergraph Neural Network
+(**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531868)]
+- <a name="todo"></a> Hypergraph Contrastive Collaborative Filtering
+(**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3477495.3532058)]
+- <a name="todo"></a> Enhancing Hypergraph Neural Networks with Intent Disentanglement for Session-based Recommendation
+(**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531794)]
+- <a name="todo"></a> DH-HGCN: Dual Homogeneity Hypergraph Convolutional Network for Multiple Social Recommendations
+(**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531828)]
+- <a name="todo"></a> Communication Efficient Distributed Hypergraph Clustering
+(**SIGIR, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3404835.3463092)]
+- <a name="todo"></a> Next-item Recommendation with Sequential Hypergraphs
+(**SIGIR, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3397271.3401133)]
+
+### International World Wide Web Conferences
+- <a name="todo"></a> IHGNN: Interactive Hypergraph Neural Network for Personalized Product Search
+(**WWW, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3485447.3511954)]
+- <a name="todo"></a> MiDaS: Representative Sampling from Real-world Hypergraphs
+(**WWW, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3485447.3512157)]
+- <a name="todo"></a> Strongly Local Hypergraph Diffusions for Clustering and Semi-supervised Learning
+(**WWW, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3442381.3449887)]
+- <a name="todo"></a> Multiplex Bipartite Network Embedding using Dual Hypergraph Convolutional Networks
+(**WWW, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3442381.3449954)]
+- <a name="todo"></a> Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation
+(**WWW, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3442381.3449844)]
+- <a name="todo"></a> How Do Hyperedges Overlap in Real-World Hypergraphs? - Patterns, Measures, and Generators
+(**WWW, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3442381.3450010)]
+- <a name="todo"></a> How Much and When Do We Need Higher-order Information in Hypergraphs? A Case Study on Hyperedge Prediction
+(**WWW, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3366423.3380016)]
+- <a name="todo"></a> Clustering in graphs and hypergraphs with categorical edge labels
+(**WWW, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3366423.3380152)]
+- <a name="todo"></a> Revisiting User Mobility and Social Relationships in LBSNs: A Hypergraph Embedding Approach
+(**WWW, 2019**) [[paper](https://dl.acm.org/doi/10.1145/3308558.3313635)]
+- <a name="todo"></a> Learning on Partial-Order Hypergraphs
+(**WWW, 2018**) [[paper](https://dl.acm.org/doi/10.1145/3178876.3186064)]
+
+### Artificial Intelligence and Statistics
+- <a name="todo"></a> Hypergraph Simultaneous Generators 
+(**AISTATS, 2022**) [[paper](https://proceedings.mlr.press/v151/pedrood22a.html)]
+- <a name="todo"></a> Statistical and computational thresholds for the planted k-densest sub-hypergraph problem
+(**AISTATS, 2022**) [[paper](https://proceedings.mlr.press/v151/corinzia22a.html)]
+- <a name="todo"></a> $𝐻𝑆^2$: Active learning over hypergraphs with pointwise and pairwise queries
+(**AISTATS, 2019**) [[paper](https://proceedings.mlr.press/v89/chien19a.html)]
+- <a name="todo"></a> Community Detection in Hypergraphs: Optimal Statistical Limit and Efficient Algorithms
+(**AISTATS, 2018**) [[paper](https://proceedings.mlr.press/v84/chien18a.html)]
+- <a name="todo"></a> Submodularity on Hypergraphs: From Sets to Sequences
+(**AISTATS, 2018**) [[paper](https://proceedings.mlr.press/v84/mitrovic18a.html)]
+
 ### AAAI Conference on Artificial Intelligence
 - <a name="todo"></a> Hypergraph Modeling via Spectral Embedding Connection: Hypergraph Cut, Weighted Kernel k-Means, and Heat Kernel 
 (**AAAI, 2022**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20787)]
@@ -120,17 +158,37 @@
 - <a name="todo"></a> Hypergraph Learning With Cost Interval Optimization 
 (**AAAI, 2018**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11761)]
 
-### Artificial Intelligence and Statistics
-- <a name="todo"></a> Hypergraph Simultaneous Generators 
-(**AISTATS, 2022**) [[paper](https://proceedings.mlr.press/v151/pedrood22a.html)]
-- <a name="todo"></a> Statistical and computational thresholds for the planted k-densest sub-hypergraph problem
-(**AISTATS, 2022**) [[paper](https://proceedings.mlr.press/v151/corinzia22a.html)]
-- <a name="todo"></a> $𝐻𝑆^2$: Active learning over hypergraphs with pointwise and pairwise queries
-(**AISTATS, 2019**) [[paper](https://proceedings.mlr.press/v89/chien19a.html)]
-- <a name="todo"></a> Community Detection in Hypergraphs: Optimal Statistical Limit and Efficient Algorithms
-(**AISTATS, 2018**) [[paper](https://proceedings.mlr.press/v84/chien18a.html)]
-- <a name="todo"></a> Submodularity on Hypergraphs: From Sets to Sequences
-(**AISTATS, 2018**) [[paper](https://proceedings.mlr.press/v84/mitrovic18a.html)]
+### International Joint Conference on Artificial Intelligence
+- <a name="todo"></a> Hypertron: Explicit Social-Temporal Hypergraph Framework for Multi-Agent Forecasting
+(**IJCAI, 2022**) [[paper](https://www.ijcai.org/proceedings/2022/189)]
+- <a name="todo"></a> Hypergraph Structure Learning for Hypergraph Neural Networks
+(**IJCAI, 2022**) [[paper](https://www.ijcai.org/proceedings/2022/267)]
+- <a name="todo"></a> Online ECG Emotion Recognition for Unknown Subjects via Hypergraph-Based Transfer Learning
+(**IJCAI, 2022**) [[paper](https://www.ijcai.org/proceedings/2022/509)]
+- <a name="todo"></a> Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning
+(**IJCAI, 2021**) [[paper](https://www.ijcai.org/proceedings/2021/225)]
+- <a name="todo"></a> UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks
+(**IJCAI, 2021**) [[paper](https://www.ijcai.org/proceedings/2021/353)]
+- <a name="todo"></a> Semi-Dynamic Hypergraph Neural Network for 3D Pose Estimation
+(**IJCAI, 2020**) [[paper](https://www.ijcai.org/proceedings/2020/109)]
+- <a name="todo"></a> Knowledge Hypergraphs: Prediction Beyond Binary Relations
+(**IJCAI, 2020**) [[paper](https://www.ijcai.org/proceedings/2020/303)]
+- <a name="todo"></a> Two-Phase Hypergraph Based Reasoning with Dynamic Relations for Multi-Hop KBQA
+(**IJCAI, 2020**) [[paper](https://www.ijcai.org/proceedings/2020/500)]
+- <a name="todo"></a> Dynamic Hypergraph Neural Networks
+(**IJCAI, 2019**) [[paper](https://www.ijcai.org/proceedings/2019/366)]
+- <a name="todo"></a> Hypergraph Induced Convolutional Manifold Networks
+(**IJCAI, 2019**) [[paper](https://www.ijcai.org/proceedings/2019/371)]
+- <a name="todo"></a> Dynamic Hypergraph Structure Learning
+(**IJCAI, 2018**) [[paper](https://www.ijcai.org/proceedings/2018/439)]
+- <a name="todo"></a> Synchronisation Games on Hypergraphs
+(**IJCAI, 2017**) [[paper](https://www.ijcai.org/proceedings/2017/57)]
+- <a name="todo"></a> Vertex-Weighted Hypergraph Learning for Multi-View Object Classification
+(**IJCAI, 2017**) [[paper](https://www.ijcai.org/proceedings/2017/387)]
+- <a name="todo"></a> Adaptive Hypergraph Learning for Unsupervised Feature Selection
+(**IJCAI, 2017**) [[paper](https://www.ijcai.org/Proceedings/2017/501)]
+- <a name="todo"></a> Lossy Compression of Pattern Databases Using Acyclic Random Hypergraphs
+(**IJCAI, 2017**) [[paper](https://www.ijcai.org/proceedings/2017/611)]
 
 ### ACM International Conference on Information and Knowledge Management
 - <a name="todo"></a> Semi-supervised Hypergraph Node Classification on Hypergraph Line Expansion
@@ -168,67 +226,7 @@
 - <a name="todo"></a> Evolution of Real-World Hypergraphs: Patterns and Models without Oracles
 (**ICDM, 2020**) [[paper](https://ieeexplore.ieee.org/document/9338313)]
 
-### International Conference on Learning Representations
-- <a name="todo"></a> Equivariant Hypergraph Diffusion Neural Operators
-(**ICLR, 2023**) [[paper](https://openreview.net/forum?id=RiTjKoscnNd)]
-- <a name="todo"></a> Ollivier-Ricci Curvature for Hypergraphs: A Unified Framework
-(**ICLR, 2023**) [[paper](https://openreview.net/forum?id=sPCKNl5qDps)]
-- <a name="todo"></a> You are AllSet: A Multiset Function Framework for Hypergraph Neural Networks 
-(**ICLR, 2022**) [[paper](https://openreview.net/forum?id=hpBTIv2uy_E)]
-- <a name="todo"></a> Learning to Represent Action Values as a Hypergraph on the Action Vertices
-(**ICLR, 2021**) [[paper](https://openreview.net/forum?id=Xv_s64FiXTv)]
-- <a name="todo"></a> Hyper-SAGNN: a self-attention based graph neural network for hypergraphs
-(**ICLR, 2020**) [[paper](https://openreview.net/forum?id=ryeHuJBtPH)]
-
-### International Conference on Machine Learning
-- <a name="todo"></a> Nonlinear Feature Diffusion on Hypergraphs
-(**ICML, 2022**) [[paper](https://proceedings.mlr.press/v162/prokopchik22a.html)]
-- <a name="todo"></a> Two Heads are Better Than One: Hypergraph-Enhanced Graph Reasoning for Visual Event Ratiocination
-(**ICML, 2021**) [[paper](https://proceedings.mlr.press/v139/zheng21b.html)]
-- <a name="todo"></a> Random Walks on Hypergraphs with Edge-Dependent Vertex Weights
-(**ICML, 2019**) [[paper](https://proceedings.mlr.press/v97/chitra19a.html)]
-- <a name="todo"></a> Molecular Hypergraph Grammar with Its Application to Molecular Optimization
-(**ICML, 2019**) [[paper](https://proceedings.mlr.press/v97/kajino19a.html)]
-- <a name="todo"></a> Submodular Hypergraphs: p-Laplacians, Cheeger Inequalities and Spectral Clustering
-(**ICML, 2018**) [[paper](https://proceedings.mlr.press/v80/li18e.html)]
-- <a name="todo"></a> Re-revisiting Learning on Hypergraphs: Confidence Interval and Subgradient Method
-(**ICML, 2017**) [[paper](https://proceedings.mlr.press/v70/zhang17d.html)]
-
-### International Joint Conference on Artificial Intelligence
-- <a name="todo"></a> Hypertron: Explicit Social-Temporal Hypergraph Framework for Multi-Agent Forecasting
-(**IJCAI, 2022**) [[paper](https://www.ijcai.org/proceedings/2022/189)]
-- <a name="todo"></a> Hypergraph Structure Learning for Hypergraph Neural Networks
-(**IJCAI, 2022**) [[paper](https://www.ijcai.org/proceedings/2022/267)]
-- <a name="todo"></a> Online ECG Emotion Recognition for Unknown Subjects via Hypergraph-Based Transfer Learning
-(**IJCAI, 2022**) [[paper](https://www.ijcai.org/proceedings/2022/509)]
-- <a name="todo"></a> Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning
-(**IJCAI, 2021**) [[paper](https://www.ijcai.org/proceedings/2021/225)]
-- <a name="todo"></a> UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks
-(**IJCAI, 2021**) [[paper](https://www.ijcai.org/proceedings/2021/353)]
-- <a name="todo"></a> Semi-Dynamic Hypergraph Neural Network for 3D Pose Estimation
-(**IJCAI, 2020**) [[paper](https://www.ijcai.org/proceedings/2020/109)]
-- <a name="todo"></a> Knowledge Hypergraphs: Prediction Beyond Binary Relations
-(**IJCAI, 2020**) [[paper](https://www.ijcai.org/proceedings/2020/303)]
-- <a name="todo"></a> Two-Phase Hypergraph Based Reasoning with Dynamic Relations for Multi-Hop KBQA
-(**IJCAI, 2020**) [[paper](https://www.ijcai.org/proceedings/2020/500)]
-- <a name="todo"></a> Dynamic Hypergraph Neural Networks
-(**IJCAI, 2019**) [[paper](https://www.ijcai.org/proceedings/2019/366)]
-- <a name="todo"></a> Hypergraph Induced Convolutional Manifold Networks
-(**IJCAI, 2019**) [[paper](https://www.ijcai.org/proceedings/2019/371)]
-- <a name="todo"></a> Dynamic Hypergraph Structure Learning
-(**IJCAI, 2018**) [[paper](https://www.ijcai.org/proceedings/2018/439)]
-- <a name="todo"></a> Synchronisation Games on Hypergraphs
-(**IJCAI, 2017**) [[paper](https://www.ijcai.org/proceedings/2017/57)]
-- <a name="todo"></a> Vertex-Weighted Hypergraph Learning for Multi-View Object Classification
-(**IJCAI, 2017**) [[paper](https://www.ijcai.org/proceedings/2017/387)]
-- <a name="todo"></a> Adaptive Hypergraph Learning for Unsupervised Feature Selection
-(**IJCAI, 2017**) [[paper](https://www.ijcai.org/Proceedings/2017/501)]
-- <a name="todo"></a> Lossy Compression of Pattern Databases Using Acyclic Random Hypergraphs
-(**IJCAI, 2017**) [[paper](https://www.ijcai.org/proceedings/2017/611)]
-
-
 ## Journal Papers
-
 
 
 # Hypergraph Theory
