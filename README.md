@@ -27,8 +27,6 @@
 (**NeurIPS, 2019**) [[paper](https://papers.nips.cc/paper/2019/hash/1efa39bcaec6f3900149160693694536-Abstract.html)]
 - <a name="todo"></a> Inhomogeneous Hypergraph Clustering with Applications
 (**NeurIPS, 2017**) [[paper](https://proceedings.neurips.cc/paper/2017/hash/a50abba8132a77191791390c3eb19fe7-Abstract.html)]
-- <a name="todo"></a> Inhomogeneous Hypergraph Clustering with Applications
-(**NeurIPS, 2017**) [[paper](https://proceedings.neurips.cc/paper/2017/hash/a50abba8132a77191791390c3eb19fe7-Abstract.html)]
 
 ### ACM Knowledge Discovery and Data Mining
 - <a name="todo"></a> Learning Causal Effects on Hypergraphs
