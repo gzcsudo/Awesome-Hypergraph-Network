@@ -6,6 +6,30 @@
 
 ## Conference Papers
 
+### Annual Conference on Neural Information Processing Systems
+- <a name="todo"></a> SHINE: SubHypergraph Inductive Neural nEtwork
+(**NeurIPS, 2022**) [[paper](https://openreview.net/forum?id=IsHRUzXPqhI)]
+- <a name="todo"></a> Sparse Hypergraph Community Detection Thresholds in Stochastic Block Model
+(**NeurIPS, 2022**) [[paper](https://openreview.net/forum?id=MjaROj4BOwk)]
+- <a name="todo"></a> Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative
+(**NeurIPS, 2022**) [[paper](https://openreview.net/forum?id=igMc_C9pgYG)]
+- <a name="todo"></a> Hypergraph Propagation and Community Selection for Objects Retrieval
+(**NeurIPS, 2021**) [[paper](https://proceedings.neurips.cc/paper/2021/hash/1da546f25222c1ee710cf7e2f7a3ff0c-Abstract.html)]
+- <a name="todo"></a> Transformers Generalize DeepSets and Can be Extended to Graphs & Hypergraphs
+(**NeurIPS, 2021**) [[paper](https://proceedings.neurips.cc/paper/2021/hash/ec0f40c389aeef789ce03eb814facc6c-Abstract.html)]
+- <a name="todo"></a> Finding Bipartite Components in Hypergraphs
+(**NeurIPS, 2021**) [[paper](https://proceedings.neurips.cc/paper/2021/hash/41bacf567aefc61b3076c74d8925128f-Abstract.html)]
+- <a name="todo"></a> Edge Representation Learning with Hypergraphs
+(**NeurIPS, 2021**) [[paper](https://proceedings.neurips.cc/paper/2021/hash/3def184ad8f4755ff269862ea77393dd-Abstract.html)]
+- <a name="todo"></a> Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs
+(**NeurIPS, 2020**) [[paper](https://proceedings.neurips.cc/paper/2020/hash/217eedd1ba8c592db97d0dbe54c7adfc-Abstract.html)]
+- <a name="todo"></a> HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs
+(**NeurIPS, 2019**) [[paper](https://papers.nips.cc/paper/2019/hash/1efa39bcaec6f3900149160693694536-Abstract.html)]
+- <a name="todo"></a> Inhomogeneous Hypergraph Clustering with Applications
+(**NeurIPS, 2017**) [[paper](https://proceedings.neurips.cc/paper/2017/hash/a50abba8132a77191791390c3eb19fe7-Abstract.html)]
+- <a name="todo"></a> Inhomogeneous Hypergraph Clustering with Applications
+(**NeurIPS, 2017**) [[paper](https://proceedings.neurips.cc/paper/2017/hash/a50abba8132a77191791390c3eb19fe7-Abstract.html)]
+
 ### ACM Knowledge Discovery and Data Mining
 - <a name="todo"></a> Learning Causal Effects on Hypergraphs
 (**KDD Best Paper, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539299)]
