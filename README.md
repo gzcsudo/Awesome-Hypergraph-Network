@@ -6,6 +6,28 @@
 
 ## Conference Papers
 
+### International World Wide Web Conferences
+- <a name="todo"></a> IHGNN: Interactive Hypergraph Neural Network for Personalized Product Search
+(**WWW, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3485447.3511954)]
+- <a name="todo"></a> Strongly Local Hypergraph Diffusions for Clustering and Semi-supervised Learning
+(**WWW, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3442381.3449887)]
+- <a name="todo"></a> Multiplex Bipartite Network Embedding using Dual Hypergraph Convolutional Networks
+(**WWW, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3442381.3449954)]
+- <a name="todo"></a> Revisiting User Mobility and Social Relationships in LBSNs: A Hypergraph Embedding Approach
+(**WWW, 2019**) [[paper](https://dl.acm.org/doi/10.1145/3308558.3313635)]
+- <a name="todo"></a> Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation
+(**WWW, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3442381.3449844)]
+- <a name="todo"></a> Learning on Partial-Order Hypergraphs
+(**WWW, 2018**) [[paper](https://dl.acm.org/doi/10.1145/3178876.3186064)]
+- <a name="todo"></a> MiDaS: Representative Sampling from Real-world Hypergraphs
+(**WWW, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3485447.3512157)]
+- <a name="todo"></a> How Much and When Do We Need Higher-order Information in Hypergraphs? A Case Study on Hyperedge Prediction
+(**WWW, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3366423.3380016)]
+- <a name="todo"></a> How Do Hyperedges Overlap in Real-World Hypergraphs? - Patterns, Measures, and Generators
+(**WWW, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3442381.3450010)]
+- <a name="todo"></a> Clustering in graphs and hypergraphs with categorical edge labels
+(**WWW, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3366423.3380152)]
+
 ### International Conference on Research on Development in Information Retrieval
 - <a name="todo"></a> Co-clustering Interactions via Attentive Hypergraph Neural Network
 (**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531868)]
