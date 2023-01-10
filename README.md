@@ -256,6 +256,52 @@
 - <a name="todo"></a> Deterministic Distributed Edge-Coloring via Hypergraph Maximal Matching
 (**FOCS, 2017**) [[paper](https://ieeexplore.ieee.org/document/8104057)]
 
+### ACM-SIAM Symposium on Discrete Algorithms
+- <a name="todo"></a> Conflict-free hypergraph matchings
+(**SODA, 2023**) [[paper](https://arxiv.org/abs/2205.05564)]
+- <a name="todo"></a> Zigzagging through acyclic orientations of chordal graphs and hypergraphs
+(**SODA, 2023**) 
+- <a name="todo"></a> A simple and sharper proof of the hypergraph Moore bound
+(**SODA, 2023**) [[paper](https://arxiv.org/abs/2207.10850)]
+- <a name="todo"></a> Distributed Maximal Matching and Maximal Independent Set on Hypergraphs
+(**SODA, 2023**) [[paper](https://arxiv.org/abs/2211.01945)]
+- <a name="todo"></a> On the complexity of binary polynomial optimization over acyclic hypergraphs
+(**SODA, 2022**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611977073.105)]
+- <a name="todo"></a> Approximate Hypergraph Vertex Cover and generalized Tuza's conjecture
+(**SODA, 2022**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611977073.40)]
+- <a name="todo"></a> Deterministic enumeration of all minimum k-cut-sets in hypergraphs for fixed k
+(**SODA, 2022**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611977073.88)]
+- <a name="todo"></a> Min-max Partitioning of Hypergraphs and Symmetric Submodular Functions
+(**SODA, 2021**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611976465.64)]
+- <a name="todo"></a> Non-linear Hamilton cycles in linear quasi-random hypergraphs
+(**SODA, 2021**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611976465.6)]
+- <a name="todo"></a> Finding Perfect Matchings in Dense Hypergraphs
+(**SODA, 2020**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611975994.145)]
+- <a name="todo"></a> A Tale of Santa Claus, Hypergraphs and Matroids
+(**SODA, 2020**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611975994.167)]
+- <a name="todo"></a> Factors and loose Hamilton cycles in sparse pseudo-random hypergraphs
+(**SODA, 2020**) [[paper](https://dl.acm.org/doi/10.5555/3381089.3381132)]
+- <a name="todo"></a> Spectral Sparsification of Hypergraphs
+(**SODA, 2019**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611975482.159)]
+- <a name="todo"></a> Minimum Cut and Minimum k-Cut in Hypergraphs via Branching Contractions
+(**SODA, 2019**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611975482.54)]
+- <a name="todo"></a> Derandomized concentration bounds for polynomials, and hypergraph maximal independent set
+(**SODA, 2018**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611975031.141)]
+- <a name="todo"></a> Hypergraph k-Cut in Randomized Polynomial Time
+(**SODA, 2018**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611975031.94)]
+- <a name="todo"></a> Computing minimum cuts in hypergraphs
+(**SODA, 2017**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611974782.70)]
+- <a name="todo"></a> Random Contractions and Sampling for Hypergraph and Hedge Connectivity
+(**SODA, 2017**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611974782.71)]
+- <a name="todo"></a> Tight Algorithms for Vertex Cover with Hard Capacities on Multigraphs and Hypergraphs
+(**SODA, 2017**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611974782.173)]
+- <a name="todo"></a> The complexity of approximately counting in 2-spin systems on k-uniform bounded-degree hypergraphs
+(**SODA, 2016**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611974331.ch34)]
+- <a name="todo"></a> An Algorithmic Hypergraph Regularity Lemma
+(**SODA, 2016**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611974331.ch122)]
+- <a name="todo"></a> Finding Perfect Matchings in Bipartite Hypergraphs
+(**SODA, 2016**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611974331.ch126)]
+
 ## Journal Papers
 
 ### Journal of Machine Learning Research
