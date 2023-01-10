@@ -107,23 +107,23 @@
 (**ESA, 2017**) [[paper](https://drops.dagstuhl.de/opus/volltexte/2017/7877/)]
 
 ### Annual Symposium on Foundations of Computer Science
-- <a name="todo"></a> A Characterization of Testable Hypergraph Properties
-(**FOCS, 2017**) [[paper](https://ieeexplore.ieee.org/document/8104116)]
-- <a name="todo"></a> Deterministic Distributed Edge-Coloring via Hypergraph Maximal Matching
-(**FOCS, 2017**) [[paper](https://ieeexplore.ieee.org/document/8104057)]
-- <a name="todo"></a> Distributed Local Approximation Algorithms for Maximum Matching in Graphs and Hypergraphs
-(**FOCS, 2019**) [[paper](https://ieeexplore.ieee.org/document/8948652)]
-- <a name="todo"></a> Hypergraph k-cut for fixed k in deterministic polynomial time
-(**FOCS, 2020**) [[paper](https://ieeexplore.ieee.org/document/9317935)]
 - <a name="todo"></a> Spectral Hypergraph Sparsifiers of Nearly Linear Size
 (**FOCS, 2021**) [[paper](https://ieeexplore.ieee.org/document/9719873)]
+- <a name="todo"></a> Hypergraph k-cut for fixed k in deterministic polynomial time
+(**FOCS, 2020**) [[paper](https://ieeexplore.ieee.org/document/9317935)]
 - <a name="todo"></a> Near-linear Size Hypergraph Cut Sparsifiers
 (**FOCS, 2020**) [[paper](https://ieeexplore.ieee.org/document/9317985)]
+- <a name="todo"></a> Distributed Local Approximation Algorithms for Maximum Matching in Graphs and Hypergraphs
+(**FOCS, 2019**) [[paper](https://ieeexplore.ieee.org/document/8948652)]
 - <a name="todo"></a> New Notions and Constructions of Sparsification for Graphs and Hypergraphs
 (**FOCS, 2019**) [[paper](https://ieeexplore.ieee.org/document/8948687)]
 - <a name="todo"></a> The Average-Case Complexity of Counting Cliques in Erdős-Rényi Hypergraphs
 (**FOCS, 2019**) [[paper](https://ieeexplore.ieee.org/document/8948685)]
 - <a name="todo"></a> The Sketching Complexity of Graph and Hypergraph Counting
 (**FOCS, 2018**) [[paper](https://ieeexplore.ieee.org/document/8555137)]
+- <a name="todo"></a> A Characterization of Testable Hypergraph Properties
+(**FOCS, 2017**) [[paper](https://ieeexplore.ieee.org/document/8104116)]
+- <a name="todo"></a> Deterministic Distributed Edge-Coloring via Hypergraph Maximal Matching
+(**FOCS, 2017**) [[paper](https://ieeexplore.ieee.org/document/8104057)]
 
 ## Journal Papers
