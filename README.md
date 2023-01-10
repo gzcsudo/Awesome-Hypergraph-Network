@@ -46,6 +46,10 @@
 - <a name="todo"></a> Submodularity on Hypergraphs: From Sets to Sequences
 (**AISTATS, 2018**) [[paper](https://proceedings.mlr.press/v84/mitrovic18a.html)]
 
+### International Conference on Information & Knowledge Management
+- <a name="todo"></a> Click-Through Rate Prediction with Multi-Modal Hypergraphs
+(**CIKM, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3459637.3482327)]
+
 ## Journal Papers
 
 ### IEEE Transactions on Pattern Analysis and Machine Intelligence
