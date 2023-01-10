@@ -2,6 +2,11 @@
 
 ## Surveys
 - <a name="todo"></a> Hypergraph Learning: Methods and Practices (**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9264674)]
+
+## Conference Papers
+
+### AAAI Conference on Artificial Intelligence
+- <a name="todo"></a> Hypergraph Learning: Methods and Practices (**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9264674)]
 ## Journal Papers
 
 ### IEEE Transactions on Pattern Analysis and Machine Intelligence
@@ -14,7 +19,7 @@
 
 ### IEEE Transactions on Cybernetics
 
-## Conference Papers
+
 
 # Hypergraph Theory
 
