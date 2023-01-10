@@ -266,7 +266,7 @@
 - <a name="todo"></a> Correntropy-Induced Robust Low-Rank Hypergraph
 (**TIP, 2019**) [[paper](https://ieeexplore.ieee.org/document/8590732)]
 - <a name="todo"></a> Multimedia Retrieval Through Unsupervised Hypergraph-Based Manifold Ranking
-(**TIP, 2019**) [[paper](https://ieeexplore.ieee.org/document/9442912)]
+(**TIP, 2019**) [[paper](https://ieeexplore.ieee.org/document/8733193)]
 - <a name="todo"></a> Inductive Multi-Hypergraph Learning and Its Application on View-Based 3D Object Classification
 (**TIP, 2018**) [[paper](https://ieeexplore.ieee.org/document/8424480)]
 - <a name="todo"></a> Joint Hypergraph Learning for Tag-Based Image Retrieval
