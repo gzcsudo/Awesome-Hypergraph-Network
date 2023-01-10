@@ -309,8 +309,6 @@
 (**STOC, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3357713.3384339)]
 - <a name="todo"></a> Counting hypergraph colourings in the local lemma regime
 (**STOC, 2018**) [[paper](https://dl.acm.org/doi/10.1145/3188745.3188934)]
-- <a name="todo"></a> Hypergraph Markov Operators, Eigenvalues and Approximation Algorithms
-(**STOC, 2015**) [[paper](https://dl.acm.org/doi/10.1145/2746539.2746555)]
 
 ## Journal Papers
 
