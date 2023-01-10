@@ -107,6 +107,10 @@
 (**ESA, 2017**) [[paper](https://drops.dagstuhl.de/opus/volltexte/2017/7877/)]
 
 ### Annual Symposium on Foundations of Computer Science
+- <a name="todo"></a> Sparse random hypergraphs: Non-backtracking spectra and community detection
+(**FOCS, 2022**) [[paper](https://ieeexplore.ieee.org/document/9996873)]
+- <a name="todo"></a> Performance and limitations of the QAOA at constant levels on large sparse hypergraphs and spin glass models
+(**FOCS, 2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9996946)]
 - <a name="todo"></a> Spectral Hypergraph Sparsifiers of Nearly Linear Size
 (**FOCS, 2021**) [[paper](https://ieeexplore.ieee.org/document/9719873)]
 - <a name="todo"></a> Hypergraph k-cut for fixed k in deterministic polynomial time
