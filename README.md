@@ -68,6 +68,20 @@
 - <a name="todo"></a> Maintaining Densest Subsets Efficiently in Evolving Hypergraphs
 (**CIKM, 2017**) [[paper](https://dl.acm.org/doi/abs/10.1145/3132847.3132907)]
 
+### International Conference on Data Mining
+- <a name="todo"></a> Hypergraph Convolutional Network for Group Recommendation
+(**ICDM, 2021**) [[paper](https://ieeexplore.ieee.org/document/9679118)]
+- <a name="todo"></a> THyMe+: Temporal Hypergraph Motifs and Fast Algorithms for Exact Counting
+(**ICDM, 2021**) [[paper](https://ieeexplore.ieee.org/document/9679171)]
+- <a name="todo"></a> Hypergraph Ego-networks and Their Temporal Evolution
+(**ICDM, 2021**) [[paper](https://ieeexplore.ieee.org/document/9679078)]
+- <a name="todo"></a> HyperTeNet: Hypergraph and Transformer-based Neural Network for Personalized List Continuation
+(**ICDM, 2021**) [[paper](https://ieeexplore.ieee.org/document/9679065)]
+- <a name="todo"></a> Spatiotemporal Hypergraph Convolution Network for Stock Movement Forecasting
+(**ICDM, 2020**) [[paper](https://ieeexplore.ieee.org/document/9338303)]
+- <a name="todo"></a> Evolution of Real-World Hypergraphs: Patterns and Models without Oracles
+(**ICDM, 2020**) [[paper](https://ieeexplore.ieee.org/document/9338313)]
+
 ## Journal Papers
 
 ### IEEE Transactions on Pattern Analysis and Machine Intelligence
