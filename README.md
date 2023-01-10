@@ -302,6 +302,16 @@
 - <a name="todo"></a> Finding Perfect Matchings in Bipartite Hypergraphs
 (**SODA, 2016**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611974331.ch126)]
 
+### ACM Symposium on Theory of Computing
+- <a name="todo"></a> Towards tight bounds for spectral sparsification of hypergraphs
+(**STOC, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3406325.3451061)]
+- <a name="todo"></a> Extractors for adversarial sources via extremal hypergraphs
+(**STOC, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3357713.3384339)]
+- <a name="todo"></a> Counting hypergraph colourings in the local lemma regime
+(**STOC, 2018**) [[paper](https://dl.acm.org/doi/10.1145/3188745.3188934)]
+- <a name="todo"></a> Hypergraph Markov Operators, Eigenvalues and Approximation Algorithms
+(**STOC, 2015**) [[paper](https://dl.acm.org/doi/10.1145/2746539.2746555)]
+
 ## Journal Papers
 
 ### Journal of Machine Learning Research
