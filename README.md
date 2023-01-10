@@ -34,6 +34,18 @@
 - <a name="todo"></a> Hypergraph Learning With Cost Interval Optimization 
 (**AAAI, 2018**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11761)]
 
+### International Conference on Artificial Intelligence and Statistics
+- <a name="todo"></a> Hypergraph Simultaneous Generators 
+(**AISTATS, 2022**) [[paper](https://proceedings.mlr.press/v151/pedrood22a.html)]
+- <a name="todo"></a> Statistical and computational thresholds for the planted k-densest sub-hypergraph problem
+(**AISTATS, 2022**) [[paper](https://proceedings.mlr.press/v151/corinzia22a.html)]
+- <a name="todo"></a> 𝐻𝑆^2: Active learning over hypergraphs with pointwise and pairwise queries
+(**AISTATS, 2019**) [[paper](https://proceedings.mlr.press/v89/chien19a.html)]
+- <a name="todo"></a> Community Detection in Hypergraphs: Optimal Statistical Limit and Efficient Algorithms
+(**AISTATS, 2018**) [[paper](https://proceedings.mlr.press/v84/chien18a.html)]
+- <a name="todo"></a> Submodularity on Hypergraphs: From Sets to Sequences
+(**AISTATS, 2018**) [[paper](https://proceedings.mlr.press/v84/mitrovic18a.html)]
+
 ## Journal Papers
 
 ### IEEE Transactions on Pattern Analysis and Machine Intelligence
