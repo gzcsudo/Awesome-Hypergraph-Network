@@ -6,6 +6,19 @@
 
 ## Conference Papers
 
+### ACM Knowledge Discovery and Data Mining
+- <a name="todo"></a> Learning Causal Effects on Hypergraphs
+(**KDD Best Paper, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539299)]
+- <a name="todo"></a> Core-periphery Models for Hypergraphs
+(**KDD, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539272)]
+- <a name="todo"></a> Self-Supervised Hypergraph Transformer for Recommender Systems
+(**KDD, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539473)]
+- <a name="todo"></a> Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation
+(**KDD, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539342)]
+- <a name="todo"></a> Generalizable Floorplanner through Corner Block List Representation and Hypergraph Embedding
+(**KDD, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539220)]
+
+
 ### AAAI Conference on Artificial Intelligence
 - <a name="todo"></a> Hypergraph Modeling via Spectral Embedding Connection: Hypergraph Cut, Weighted Kernel k-Means, and Heat Kernel 
 (**AAAI, 2022**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20787)]
