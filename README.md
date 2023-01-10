@@ -105,6 +105,8 @@
 (**ICML, 2019**) [[paper](https://proceedings.mlr.press/v97/kajino19a.html)]
 - <a name="todo"></a> Submodular Hypergraphs: p-Laplacians, Cheeger Inequalities and Spectral Clustering
 (**ICML, 2018**) [[paper](https://proceedings.mlr.press/v80/li18e.html)]
+- <a name="todo"></a> Re-revisiting Learning on Hypergraphs: Confidence Interval and Subgradient Method
+(**ICML, 2017**) [[paper](https://proceedings.mlr.press/v70/zhang17d.html)]
 
 ## Journal Papers
 
