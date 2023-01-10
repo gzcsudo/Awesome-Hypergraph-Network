@@ -108,6 +108,39 @@
 - <a name="todo"></a> Re-revisiting Learning on Hypergraphs: Confidence Interval and Subgradient Method
 (**ICML, 2017**) [[paper](https://proceedings.mlr.press/v70/zhang17d.html)]
 
+### International Joint Conference on Artificial Intelligence
+- <a name="todo"></a> Hypertron: Explicit Social-Temporal Hypergraph Framework for Multi-Agent Forecasting
+(**IJCAI, 2022**) [[paper](https://www.ijcai.org/Proceedings/2017/501)]
+- <a name="todo"></a> Hypergraph Structure Learning for Hypergraph Neural Networks
+(**IJCAI, 2022**) [[paper](https://www.ijcai.org/proceedings/2022/267)]
+- <a name="todo"></a> Online ECG Emotion Recognition for Unknown Subjects via Hypergraph-Based Transfer Learning
+(**IJCAI, 2022**) [[paper](https://www.ijcai.org/proceedings/2022/509)]
+- <a name="todo"></a> Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning
+(**IJCAI, 2021**) [[paper](https://www.ijcai.org/proceedings/2021/225)]
+- <a name="todo"></a> UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks
+(**IJCAI, 2021**) [[paper](https://www.ijcai.org/proceedings/2021/353)]
+- <a name="todo"></a> Semi-Dynamic Hypergraph Neural Network for 3D Pose Estimation
+(**IJCAI, 2020**) [[paper](https://www.ijcai.org/proceedings/2020/109)]
+- <a name="todo"></a> Knowledge Hypergraphs: Prediction Beyond Binary Relations
+(**IJCAI, 2020**) [[paper](https://www.ijcai.org/proceedings/2020/303)]
+- <a name="todo"></a> Two-Phase Hypergraph Based Reasoning with Dynamic Relations for Multi-Hop KBQA
+(**IJCAI, 2020**) [[paper](https://www.ijcai.org/proceedings/2020/500)]
+- <a name="todo"></a> Dynamic Hypergraph Neural Networks
+(**IJCAI, 2019**) [[paper](https://www.ijcai.org/proceedings/2019/366)]
+- <a name="todo"></a> Hypergraph Induced Convolutional Manifold Networks
+(**IJCAI, 2019**) [[paper](https://www.ijcai.org/proceedings/2019/371)]
+- <a name="todo"></a> Dynamic Hypergraph Structure Learning
+(**IJCAI, 2018**) [[paper](https://www.ijcai.org/proceedings/2018/439)]
+- <a name="todo"></a> Synchronisation Games on Hypergraphs
+(**IJCAI, 2017**) [[paper](https://www.ijcai.org/proceedings/2017/57)]
+- <a name="todo"></a> Vertex-Weighted Hypergraph Learning for Multi-View Object Classification
+(**IJCAI, 2017**) [[paper](https://www.ijcai.org/proceedings/2017/387)]
+- <a name="todo"></a> Adaptive Hypergraph Learning for Unsupervised Feature Selection
+(**IJCAI, 2017**) [[paper](https://www.ijcai.org/Proceedings/2017/501)]
+- <a name="todo"></a> Lossy Compression of Pattern Databases Using Acyclic Random Hypergraphs
+(**IJCAI, 2017**) [[paper](https://www.ijcai.org/proceedings/2017/611)]
+
+
 ## Journal Papers
 
 ### IEEE Transactions on Pattern Analysis and Machine Intelligence
