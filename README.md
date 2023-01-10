@@ -207,6 +207,26 @@
 
 ## Journal Papers
 
+### IEEE Transactions on Information Theory
+
+- <a name="todo"></a> Exact Recovery in the General Hypergraph Stochastic Block Model
+(**TIT, 2023**) [[paper](https://ieeexplore.ieee.org/document/9887955)]
+- <a name="todo"></a> Limitations on Transversal Gates for Hypergraph Product Codes
+(**TIT, 2022**) [[paper](https://ieeexplore.ieee.org/document/9631219)]
+- <a name="todo"></a> ReShape: A Decoder for Hypergraph Product Codes
+(**TIT, 2022**) [[paper](https://ieeexplore.ieee.org/document/9799762)]
+- <a name="todo"></a> On Some Distributed Scheduling Algorithms for Wireless Networks With Hypergraph Interference Models
+(**TIT, 2021**) [[paper](https://ieeexplore.ieee.org/document/9354839)]
+- <a name="todo"></a> Motif and Hypergraph Correlation Clustering
+(**TIT, 2020**) [[paper](https://ieeexplore.ieee.org/document/8830473)]
+- <a name="todo"></a> Community Recovery in Hypergraphs
+(**TIT, 2019**) [[paper](https://ieeexplore.ieee.org/document/8730357)]
+- <a name="todo"></a> On the Minimax Misclassification Ratio of Hypergraph Community Detection
+(**TIT, 2019**) [[paper](https://ieeexplore.ieee.org/document/8760583)]
+- <a name="todo"></a> Centralized Coded Caching Schemes: A Hypergraph Theoretical Approach
+(**TIT, 2018**) [[paper](https://ieeexplore.ieee.org/document/8386806)]
+- <a name="todo"></a> New Lower Bounds for Secure Codes and Related Hash Families: A Hypergraph Theoretical Approach
+(**TIT, 2017**) [[paper](https://ieeexplore.ieee.org/document/7792727)]
 
 # Hypergraph Theory
 
