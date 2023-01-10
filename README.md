@@ -92,7 +92,7 @@
 - <a name="todo"></a> Open Problem: Average-Case Hardness of Hypergraphic Planted Clique Detection
 (**COLT, 2020**) [[paper](http://proceedings.mlr.press/v125/luo20a.html)]
 
-### European Symposium on Algorithms
+### Annual European Symposium on Algorithms
 - <a name="todo"></a> Fully Dynamic Set Cover via Hypergraph Maximal Matching: An Optimal Approximation Through a Local Approach
 (**ESA, 2021**) [[paper](https://drops.dagstuhl.de/opus/volltexte/2021/14589/)]
 - <a name="todo"></a> The Minimization of Random Hypergraphs
@@ -106,5 +106,8 @@
 - <a name="todo"></a> Clustering in Hypergraphs to Minimize Average Edge Service Time
 (**ESA, 2017**) [[paper](https://drops.dagstuhl.de/opus/volltexte/2017/7877/)]
 
+### Annual Symposium on Foundations of Computer Science
+- <a name="todo"></a> A Characterization of Testable Hypergraph Properties
+(**FOCS, 2017**) [[paper](https://ieeexplore.ieee.org/document/8104116)]
 
 ## Journal Papers
