@@ -14,7 +14,7 @@
 
 ### IEEE Transactions on Cybernetics
 
-### 2016
+## Conference Papers
 
 # Hypergraph Theory
 
