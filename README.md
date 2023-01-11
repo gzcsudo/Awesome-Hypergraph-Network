@@ -496,6 +496,10 @@ HyperNetX:
 https://github.com/pnnl/HyperNetX
 (**Community Detection, Clustering, Generation, Visualization**)
 
+KaHyPar:
+https://github.com/kahypar/kahypar
+(**Hypergraph Partitioning**)
+
 HAT:
 https://github.com/Jpickard1/Hypergraph-Analysis-Toolbox
 (**Hypergraph Analysis**)
@@ -503,7 +507,3 @@ https://github.com/Jpickard1/Hypergraph-Analysis-Toolbox
 Hypergraph:
 https://github.com/yamafaktory/hypergraph
 (**Data Structure**)
-
-KaHyPar:
-https://github.com/kahypar/kahypar
-(**Hypergraph Partitioning**)
