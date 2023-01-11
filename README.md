@@ -495,4 +495,4 @@ https://github.com/iMoonLab/DeepHypergraph
 
 HyperNetX:
 https://github.com/pnnl/HyperNetX
-(**Community Detection, Clustering, Generation and visualization**)
+(**Community Detection, Clustering, Generation, Visualization**)
