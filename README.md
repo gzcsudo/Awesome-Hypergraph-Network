@@ -484,3 +484,8 @@
 # Hypergraph Dataset
 
 # Hypergraph Tool
+PyTorch Geometric: 
+https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#torch_geometric.nn.conv.HypergraphConv
+Hypergraph Convolution and Hypergraph Attention
+https://www.sciencedirect.com/science/article/abs/pii/S0031320320304404
+
