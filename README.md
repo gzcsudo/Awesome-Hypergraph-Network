@@ -252,28 +252,6 @@
 - <a name="todo"></a> Exploiting Hierarchical Dense Structures on Hypergraphs for Multi-Object Tracking
 (**TPAMI, 2016**) [[paper](https://ieeexplore.ieee.org/document/7360186)]
 
-### IEEE Transactions on Image Processing
-- <a name="todo"></a> An Efficient Hypergraph Approach to Robust Point Cloud Resampling
-(**TIP, 2022**) [[paper](https://ieeexplore.ieee.org/document/9709703)]
-- <a name="todo"></a> Big-Hypergraph Factorization Neural Network for Survival Prediction From Whole Slide Image
-(**TIP, 2022**) [[paper](https://ieeexplore.ieee.org/document/9667788)]
-- <a name="todo"></a> Hypergraph Spectral Analysis and Processing in 3D Point Cloud
-(**TIP, 2021**) [[paper](https://ieeexplore.ieee.org/document/9292465)]
-- <a name="todo"></a> Hypergraph Neural Network for Skeleton-Based Action Recognition
-(**TIP, 2021**) [[paper](https://ieeexplore.ieee.org/document/9329123)]
-- <a name="todo"></a> Multi-Scale Representation Learning on Hypergraph for 3D Shape Retrieval and Recognition
-(**TIP, 2021**) [[paper](https://ieeexplore.ieee.org/document/9442912)]
-- <a name="todo"></a> Correntropy-Induced Robust Low-Rank Hypergraph
-(**TIP, 2019**) [[paper](https://ieeexplore.ieee.org/document/8590732)]
-- <a name="todo"></a> Multimedia Retrieval Through Unsupervised Hypergraph-Based Manifold Ranking
-(**TIP, 2019**) [[paper](https://ieeexplore.ieee.org/document/8733193)]
-- <a name="todo"></a> Inductive Multi-Hypergraph Learning and Its Application on View-Based 3D Object Classification
-(**TIP, 2018**) [[paper](https://ieeexplore.ieee.org/document/8424480)]
-- <a name="todo"></a> Joint Hypergraph Learning for Tag-Based Image Retrieval
-(**TIP, 2018**) [[paper](https://ieeexplore.ieee.org/document/8360131)]
-- <a name="todo"></a> Elastic Net Hypergraph Learning for Image Clustering and Semi-Supervised Classification
-(**TIP, 2017**) [[paper](https://ieeexplore.ieee.org/document/7707352)]
-
 ### IEEE Transactions on Knowledge and Data Engineering
 - <a name="todo"></a> Hypergraph Partitioning With Embeddings
 (**TKDE, 2022**) [[paper](https://ieeexplore.ieee.org/document/9169850)]
@@ -297,6 +275,42 @@
 (**TKDE, 2019**) [[paper](https://ieeexplore.ieee.org/document/8493549)]
 - <a name="todo"></a> Malevolent Activity Detection with Hypergraph-Based Models
 (**TKDE, 2017**) [[paper](https://ieeexplore.ieee.org/document/7833129)]
+
+### IEEE Transactions on Image Processing
+- <a name="todo"></a> An Efficient Hypergraph Approach to Robust Point Cloud Resampling
+(**TIP, 2022**) [[paper](https://ieeexplore.ieee.org/document/9709703)]
+- <a name="todo"></a> Big-Hypergraph Factorization Neural Network for Survival Prediction From Whole Slide Image
+(**TIP, 2022**) [[paper](https://ieeexplore.ieee.org/document/9667788)]
+- <a name="todo"></a> Hypergraph Spectral Analysis and Processing in 3D Point Cloud
+(**TIP, 2021**) [[paper](https://ieeexplore.ieee.org/document/9292465)]
+- <a name="todo"></a> Hypergraph Neural Network for Skeleton-Based Action Recognition
+(**TIP, 2021**) [[paper](https://ieeexplore.ieee.org/document/9329123)]
+- <a name="todo"></a> Multi-Scale Representation Learning on Hypergraph for 3D Shape Retrieval and Recognition
+(**TIP, 2021**) [[paper](https://ieeexplore.ieee.org/document/9442912)]
+- <a name="todo"></a> Correntropy-Induced Robust Low-Rank Hypergraph
+(**TIP, 2019**) [[paper](https://ieeexplore.ieee.org/document/8590732)]
+- <a name="todo"></a> Multimedia Retrieval Through Unsupervised Hypergraph-Based Manifold Ranking
+(**TIP, 2019**) [[paper](https://ieeexplore.ieee.org/document/8733193)]
+- <a name="todo"></a> Inductive Multi-Hypergraph Learning and Its Application on View-Based 3D Object Classification
+(**TIP, 2018**) [[paper](https://ieeexplore.ieee.org/document/8424480)]
+- <a name="todo"></a> Joint Hypergraph Learning for Tag-Based Image Retrieval
+(**TIP, 2018**) [[paper](https://ieeexplore.ieee.org/document/8360131)]
+- <a name="todo"></a> Elastic Net Hypergraph Learning for Image Clustering and Semi-Supervised Classification
+(**TIP, 2017**) [[paper](https://ieeexplore.ieee.org/document/7707352)]
+
+### IEEE Transactions on Neural Networks and Learning Systems
+- <a name="todo"></a> Music Recommendation via Hypergraph Embedding
+(**TNNLS, 2022**) [[paper](https://ieeexplore.ieee.org/document/9709542)]
+- <a name="todo"></a> Hypergraph Structural Information Aggregation Generative Adversarial Networks for Diagnosis and Pathogenetic Factors Identification of Alzheimer’s Disease With Imaging Genetic Data
+(**TNNLS, 2022**) [[paper](https://ieeexplore.ieee.org/document/9925992)]
+- <a name="todo"></a> Multi-Atlas Segmentation of Anatomical Brain Structures Using Hierarchical Hypergraph Learning
+(**TNNLS, 2020**) [[paper](https://ieeexplore.ieee.org/document/8825837)]
+- <a name="todo"></a> Hypergraph-Induced Convolutional Networks for Visual Classification
+(**TNNLS, 2019**) [[paper](https://ieeexplore.ieee.org/document/8478794)]
+- <a name="todo"></a> Learning to Map Social Network Users by Unified Manifold Alignment on Hypergraph
+(**TNNLS, 2018**) [[paper](https://ieeexplore.ieee.org/document/8330753)]
+- <a name="todo"></a> Person Re-identification by Multi-hypergraph Fusion
+(**TNNLS, 2017**) [[paper](https://ieeexplore.ieee.org/document/7560601)]
 
 # Hypergraph Theory
 
