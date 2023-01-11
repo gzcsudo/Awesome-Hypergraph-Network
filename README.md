@@ -274,6 +274,29 @@
 - <a name="todo"></a> Elastic Net Hypergraph Learning for Image Clustering and Semi-Supervised Classification
 (**TIP, 2017**) [[paper](https://ieeexplore.ieee.org/document/7707352)]
 
+### IEEE Transactions on Knowledge and Data Engineering
+- <a name="todo"></a> Hypergraph Partitioning With Embeddings
+(**TKDE, 2022**) [[paper](https://ieeexplore.ieee.org/document/9169850)]
+- <a name="todo"></a> Distributed Hypergraph Processing Using Intersection Graphs
+(**TKDE, 2022**) [[paper](https://ieeexplore.ieee.org/document/9187569)]
+- <a name="todo"></a> Data Representation by Joint Hypergraph Embedding and Sparse Coding
+(**TKDE, 2022**) [[paper](https://ieeexplore.ieee.org/document/9141415)]
+- <a name="todo"></a> HyperISO: Efficiently Searching Subgraph Containment in Hypergraphs
+(**TKDE, 2022**) [[paper](https://ieeexplore.ieee.org/document/9875064)]
+- <a name="todo"></a> Hypergraph Representation for Detecting 3D Objects from Noisy Point Clouds
+(**TKDE, 2022**) [[paper](https://ieeexplore.ieee.org/document/9788570)]
+- <a name="todo"></a> LBSN2Vec++: Heterogeneous Hypergraph Embedding for Location-Based Social Networks
+(**TKDE, 2022**) [[paper](https://ieeexplore.ieee.org/document/9099985)]
+- <a name="todo"></a> Adaptive Hypergraph Auto-Encoder for Relational Data Clustering
+(**TKDE, 2021**) [[paper](https://ieeexplore.ieee.org/document/9525190)]
+- <a name="todo"></a> Re-Revisiting Learning on Hypergraphs: Confidence Interval, Subgradient Method, and Extension to Multiclass
+(**TKDE, 2020**) [[paper](https://ieeexplore.ieee.org/document/8528544)]
+- <a name="todo"></a> HyperX: A Scalable Hypergraph Framework
+(**TKDE, 2019**) [[paper](https://ieeexplore.ieee.org/document/8391739)]
+- <a name="todo"></a> Dual Hypergraph Regularized PCA for Biclustering of Tumor Gene Expression Data
+(**TKDE, 2019**) [[paper](https://ieeexplore.ieee.org/document/8493549)]
+- <a name="todo"></a> Malevolent Activity Detection with Hypergraph-Based Models
+(**TKDE, 2017**) [[paper](https://ieeexplore.ieee.org/document/7833129)]
 
 # Hypergraph Theory
 
