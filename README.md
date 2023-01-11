@@ -1,6 +1,12 @@
 # Hypergraph Survey
 - <a name="todo"></a> Hypergraph Learning: Methods and Practices
 (**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9264674)]
+- <a name="todo"></a> More Recent Advances in (Hyper)Graph Partitioning
+(**ACM Computing Surveys, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3571808)]
+- <a name="todo"></a> Survey of Hypergraph Neural Networks and Its Application to Action Recognition
+(**CAAI International Conference on Artificial Intelligence, 2022**) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-20500-2_32)]
+- <a name="todo"></a> A Survey on Various Representation Learning of Hypergraph for Unsupervised Feature Selection
+(**Data, Engineering and Applications, 2022**) [[paper](https://link.springer.com/chapter/10.1007/978-981-19-4687-5_6)]
 
 # Hypergraph Learning
 
