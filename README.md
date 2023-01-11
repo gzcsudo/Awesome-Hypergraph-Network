@@ -326,6 +326,19 @@
 - <a name="todo"></a> Unsupervised Topic Hypergraph Hashing for Efficient Mobile Image Retrieval
 (**TCYB, 2017**) [[paper](https://ieeexplore.ieee.org/document/7605530)]
 
+### IEEE Transactions on Multimedia
+- <a name="todo"></a> Adaptive Multi-Hypergraph Convolutional Networks for 3D Object Classification
+(**TMM, 2022**) [[paper](https://ieeexplore.ieee.org/document/9797873)]
+- <a name="todo"></a> A Universal Quaternion Hypergraph Network for Multimodal Video Question Answering
+(**TMM, 2021**) [[paper](https://ieeexplore.ieee.org/document/9576650)]
+- <a name="todo"></a> Object Cosegmentation in Noisy Videos With Multilevel Hypergraph
+(**TMM, 2021**) [[paper](https://ieeexplore.ieee.org/document/9095232)]
+- <a name="todo"></a> Cross-Modality Microblog Sentiment Prediction via Bi-Layer Multimodal Hypergraph Learning
+(**TMM, 2019**) [[paper](https://ieeexplore.ieee.org/document/8450030)]
+- <a name="todo"></a> Adaptive Hypergraph Embedded Semi-Supervised Multi-Label Image Annotation
+(**TMM, 2019**) [[paper](https://ieeexplore.ieee.org/document/8684404)]
+- <a name="todo"></a> Context-Aware Hypergraph Modeling for Re-identification and Summarization
+(**TMM, 2016**) [[paper](https://ieeexplore.ieee.org/document/7312467)]
 
 # Hypergraph Theory
 
