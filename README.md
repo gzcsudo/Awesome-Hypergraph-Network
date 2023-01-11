@@ -495,3 +495,15 @@ https://github.com/iMoonLab/DeepHypergraph
 HyperNetX:
 https://github.com/pnnl/HyperNetX
 (**Community Detection, Clustering, Generation, Visualization**)
+
+HAT:
+https://github.com/Jpickard1/Hypergraph-Analysis-Toolbox
+(**Hypergraph Analysis**)
+
+Hypergraph:
+https://github.com/yamafaktory/hypergraph
+(**Data Structure**)
+
+KaHyPar:
+https://github.com/kahypar/kahypar
+(**Hypergraph Partitioning**)
