@@ -312,6 +312,21 @@
 - <a name="todo"></a> Person Re-identification by Multi-hypergraph Fusion
 (**TNNLS, 2017**) [[paper](https://ieeexplore.ieee.org/document/7560601)]
 
+### IEEE Transactions on Cybernetics
+- <a name="todo"></a> Cost-Sensitive Hypergraph Learning With F-Measure Optimization
+(**TCYB, 2021**) [[paper](https://ieeexplore.ieee.org/document/9626567)]
+- <a name="todo"></a> Correntropy-Based Hypergraph Regularized NMF for Clustering and Feature Selection on Multi-Cancer Integrated Data
+(**TCYB, 2021**) [[paper](https://ieeexplore.ieee.org/document/9130073)]
+- <a name="todo"></a> Feature Learning Using Spatial-Spectral Hypergraph Discriminant Analysis for Hyperspectral Image
+(**TCYB, 2019**) [[paper](https://ieeexplore.ieee.org/document/8351966)]
+- <a name="todo"></a> Adaptive Discrete Hypergraph Matching
+(**TCYB, 2018**) [[paper](https://ieeexplore.ieee.org/document/7858754)]
+- <a name="todo"></a> Geometric Hypergraph Learning for Visual Tracking
+(**TCYB, 2017**) [[paper](https://ieeexplore.ieee.org/document/7748448)]
+- <a name="todo"></a> Unsupervised Topic Hypergraph Hashing for Efficient Mobile Image Retrieval
+(**TCYB, 2017**) [[paper](https://ieeexplore.ieee.org/document/7605530)]
+
+
 # Hypergraph Theory
 
 ## Conference Papers
