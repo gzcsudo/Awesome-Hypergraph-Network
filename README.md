@@ -499,6 +499,8 @@
 |       #Class       |     2    |    67   |     40     |    9   |   2   |    11   |
 | Max Hyperedge Size |   1808   |    5    |      5     |  2838  |   81  |    25   |
 
+Dataset is available at https://github.com/jianhao2016/AllSet/blob/main/data/raw_data/AllSet_all_raw_data.zip.
+
 # Hypergraph Tool
 PyTorch Geometric: 
 https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#convolutional-layers
