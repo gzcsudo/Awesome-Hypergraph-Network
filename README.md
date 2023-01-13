@@ -504,7 +504,11 @@ Dataset is available at https://github.com/jianhao2016/AllSet/blob/main/data/raw
 # Hypergraph Tool
 PyTorch Geometric: 
 https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#convolutional-layers
-(**Hypergraph Convolution and Hypergraph Attention**)
+(**Hypergraph Convolution Network**)
+
+OpenHGNN:
+https://github.com/BUPT-GAMMA/OpenHGNN
+(**Heterogeneous Graph Neural Network**)
 
 DeepHypergraph:
 https://github.com/iMoonLab/DeepHypergraph
