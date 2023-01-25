@@ -484,7 +484,8 @@
 (**TIT, 2017**) [[paper](https://ieeexplore.ieee.org/document/7792727)]
 
 # Hypergraph Dataset
-
+## Clustering
+## Classifying
 |                    | Cora | Citeseer | Pubmed | Cora-CA | DBLP-CA | Zoo | 20News |
 |:------------------:|:----:|:--------:|:------:|:-------:|:-------:|:---:|:------:|
 |       #Vertex      | 2708 |   3312   |  19717 |   2708  |  41302  | 101 |  16242 |
@@ -501,20 +502,22 @@
 |       #Class       |     2    |    67   |     40     |    9   |   2   |    11   |
 | Max Hyperedge Size |   1808   |    5    |      5     |  2838  |   81  |    25   |
 
-Dataset is available at https://github.com/jianhao2016/AllSet/blob/main/data/raw_data/AllSet_all_raw_data.zip
+Dataset is available at https://github.com/jianhao2016/AllSet
+
+## Partitioning
 
 # Hypergraph Tool
 PyTorch Geometric: 
 https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#convolutional-layers
 (**Hypergraph Convolution Network**)
 
-OpenHGNN:
-https://github.com/BUPT-GAMMA/OpenHGNN
-(**Heterogeneous Graph Neural Network**)
-
 DeepHypergraph:
 https://github.com/iMoonLab/DeepHypergraph
 (**Hypergraph Neural Networks**)
+
+OpenHGNN:
+https://github.com/BUPT-GAMMA/OpenHGNN
+(**Heterogeneous Graph Neural Network**)
 
 HyperNetX:
 https://github.com/pnnl/HyperNetX
