@@ -483,6 +483,10 @@
 - <a name="todo"></a> New Lower Bounds for Secure Codes and Related Hash Families: A Hypergraph Theoretical Approach
 (**TIT, 2017**) [[paper](https://ieeexplore.ieee.org/document/7792727)]
 
+# Hypergraph Tutorial 
+- <a name="todo"></a> Mining of Real-world Hypergraphs: Patterns, Tools, and Generators 
+(**CIKM, 2022**) [[website](https://sites.google.com/view/hypergraph-tutorial)]
+
 # Hypergraph Dataset
 ## Classification
 |                    | Cora | Citeseer | Pubmed | Cora-CA | DBLP-CA | Zoo | 20News |
@@ -537,11 +541,6 @@ https://github.com/Jpickard1/Hypergraph-Analysis-Toolbox
 Hypergraph:
 https://github.com/yamafaktory/hypergraph
 (**Data Structure**)
-
-# Hypergraph Tutorial 
-
-- <a name="todo"></a> Mining of Real-world Hypergraphs: Patterns, Tools, and Generators 
-(**CIKM, 2022**) [[website](https://sites.google.com/view/hypergraph-tutorial)]
 
 # Hypergraph Expansion
 ![image](hypergraph_expansion.png)
