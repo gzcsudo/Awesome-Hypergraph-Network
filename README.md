@@ -506,6 +506,9 @@ Hypergraph classification dataset is available at https://github.com/jianhao2016
 ## Clustering
 Hypergraph clustering dataset is available at https://sites.google.com/view/panli-purdue/datasets
 
+## Partitioning
+Hypergraph partitioning dataset is available at https://kahypar.org/
+
 # Hypergraph Tool
 PyTorch Geometric: 
 https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#convolutional-layers
