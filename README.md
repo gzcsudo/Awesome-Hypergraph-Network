@@ -538,5 +538,10 @@ Hypergraph:
 https://github.com/yamafaktory/hypergraph
 (**Data Structure**)
 
+# Hypergraph Tutorial 
+
+- <a name="todo"></a> Mining of Real-world Hypergraphs: Patterns, Tools, and Generators 
+(**CIKM, 2022**) [[website](https://sites.google.com/view/hypergraph-tutorial)]
+
 # Hypergraph Expansion
 ![image](hypergraph_expansion.png)
