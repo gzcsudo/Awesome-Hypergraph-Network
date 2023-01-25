@@ -484,8 +484,7 @@
 (**TIT, 2017**) [[paper](https://ieeexplore.ieee.org/document/7792727)]
 
 # Hypergraph Dataset
-## Clustering
-## Classifying
+## Classification
 |                    | Cora | Citeseer | Pubmed | Cora-CA | DBLP-CA | Zoo | 20News |
 |:------------------:|:----:|:--------:|:------:|:-------:|:-------:|:---:|:------:|
 |       #Vertex      | 2708 |   3312   |  19717 |   2708  |  41302  | 101 |  16242 |
@@ -502,9 +501,10 @@
 |       #Class       |     2    |    67   |     40     |    9   |   2   |    11   |
 | Max Hyperedge Size |   1808   |    5    |      5     |  2838  |   81  |    25   |
 
-Dataset is available at https://github.com/jianhao2016/AllSet
+Hypergraph classification dataset is available at https://github.com/jianhao2016/AllSet
 
-## Partitioning
+## Clustering
+Hypergraph clustering dataset is available at https://sites.google.com/view/panli-purdue/datasets
 
 # Hypergraph Tool
 PyTorch Geometric: 
