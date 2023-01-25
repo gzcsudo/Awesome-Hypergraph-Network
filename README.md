@@ -1,6 +1,5 @@
 ![image](hypergraph_network.png)
 ![image](hypergraph_expansion.png)
-<img src="hypergraph_network.png" width="400px" height="400px" />
 
 # Hypergraph Survey
 - <a name="todo"></a> Hypergraph Learning: Methods and Practices
