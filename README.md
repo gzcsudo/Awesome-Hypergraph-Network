@@ -1,4 +1,4 @@
-![image](https://github.com/gzcsudo/Awesome-Hypergraph-Network/blob/423a6ccea6d719afacbb71fd70dbb00188b4d16e/hypergraph_network.pdf)
+![image](hypergraph_network.png)
 # Hypergraph Survey
 - <a name="todo"></a> Hypergraph Learning: Methods and Practices
 (**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9264674)]
