@@ -1,5 +1,4 @@
 ![image](hypergraph_network.png)
-![image](hypergraph_expansion.png)
 
 # Hypergraph Survey
 - <a name="todo"></a> Hypergraph Learning: Methods and Practices
@@ -532,3 +531,6 @@ https://github.com/Jpickard1/Hypergraph-Analysis-Toolbox
 Hypergraph:
 https://github.com/yamafaktory/hypergraph
 (**Data Structure**)
+
+# Hypergraph Expansion
+![image](hypergraph_expansion.png)
