@@ -1,4 +1,5 @@
 ![image](hypergraph_network.png)
+![image](hypergraph_expansion.png)
 # Hypergraph Survey
 - <a name="todo"></a> Hypergraph Learning: Methods and Practices
 (**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9264674)]
