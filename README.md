@@ -501,7 +501,7 @@
 |       #Class       |     2    |    67   |     40     |    9   |   2   |    11   |
 | Max Hyperedge Size |   1808   |    5    |      5     |  2838  |   81  |    25   |
 
-Hypergraph classification dataset is available at https://github.com/jianhao2016/AllSet
+Hypergraph node classification dataset is available at https://github.com/jianhao2016/AllSet
 
 ## Clustering
 Hypergraph clustering dataset is available at https://sites.google.com/view/panli-purdue/datasets
