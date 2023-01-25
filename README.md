@@ -542,5 +542,11 @@ Hypergraph:
 https://github.com/yamafaktory/hypergraph
 (**Data Structure**)
 
+# Hypergraph Task
+Hypergraph Embedding: https://paperswithcode.com/task/hypergraph-embedding
+Hypergraph Matching: https://paperswithcode.com/task/hypergraph-matching
+Hypergraph Representations: https://paperswithcode.com/task/hypergraph-representations
+Hypergraph Partitioning: https://paperswithcode.com/task/hypergraph-partitioning
+
 # Hypergraph Expansion
 ![image](hypergraph_expansion.png)
