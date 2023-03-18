@@ -486,6 +486,8 @@
 # Hypergraph Tutorial 
 - <a name="todo"></a> Mining of Real-world Hypergraphs: Patterns, Tools, and Generators 
 (**CIKM, 2022**) [[website](https://sites.google.com/view/hypergraph-tutorial)]
+- <a name="todo"></a> Multimodal deep learning on hypergraphs
+(**University of Amsterdam, 2022**) [[PhD Thesis](https://dare.uva.nl/search?identifier=2aafe58d-f80f-4df7-914c-c0547ef7b705)]
 
 # Hypergraph Dataset
 ## Classification
