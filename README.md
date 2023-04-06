@@ -141,6 +141,10 @@
 ### AAAI Conference on Artificial Intelligence
 - <a name="todo"></a> Hypergraph Modeling via Spectral Embedding Connection: Hypergraph Cut, Weighted Kernel k-Means, and Heat Kernel 
 (**AAAI, 2022**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20787)]
+- <a name="todo"></a> MS-HGAT: Memory-Enhanced Sequential Hypergraph Attention Network for Information Diffusion Prediction
+(**AAAI, 2022**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20334)]
+- <a name="todo"></a> Adaptive Hypergraph Neural Network for Multi-Person Pose Estimation
+(**AAAI, 2022**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20201)]
 - <a name="todo"></a> Compound Word Transformer: Learning to Compose Full-Song Music over Dynamic Directed Hypergraphs
 (**AAAI, 2021**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16091)]
 - <a name="todo"></a> Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach
