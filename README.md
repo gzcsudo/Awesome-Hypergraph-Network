@@ -548,6 +548,10 @@ Hypergraph:
 https://github.com/yamafaktory/hypergraph
 (**Data Structure**)
 
+XGI:
+https://github.com/xgi-org/xgi
+(**Hypergraph Group Interaction**)
+
 # Hypergraph Task
 Hypergraph Embedding: https://paperswithcode.com/task/hypergraph-embedding
 
