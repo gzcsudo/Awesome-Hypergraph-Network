@@ -105,6 +105,14 @@
 (**SIGIR, 2020**) [[paper](https://dl.acm.org/doi/10.1145/3397271.3401133)]
 
 ### International World Wide Web Conferences
+- <a name="todo"></a> HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks
+(**WWW, 2023**) [[paper](https://dl.acm.org/doi/10.1145/3543507.3583256)]
+- <a name="todo"></a> Intra and Inter Domain HyperGraph Convolutional Network for Cross-Domain Recommendation
+(**WWW, 2023**) [[paper](https://dl.acm.org/doi/10.1145/3543507.3583402)]
+- <a name="todo"></a> Cut-matching Games for Generalized Hypergraph Ratio Cuts
+(**WWW, 2023**) [[paper](https://dl.acm.org/doi/10.1145/3543507.3583539)]
+- <a name="todo"></a> Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation
+(**WWW, 2023**) [[paper](https://dl.acm.org/doi/10.1145/3543507.3583331)]
 - <a name="todo"></a> IHGNN: Interactive Hypergraph Neural Network for Personalized Product Search
 (**WWW, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3485447.3511954)]
 - <a name="todo"></a> MiDaS: Representative Sampling from Real-world Hypergraphs
