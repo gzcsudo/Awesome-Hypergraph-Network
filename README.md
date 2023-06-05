@@ -273,6 +273,10 @@
 (**TPAMI, 2016**) [[paper](https://ieeexplore.ieee.org/document/7360186)]
 
 ### IEEE Transactions on Knowledge and Data Engineering
+- <a name="todo"></a> Self-Supervised Hypergraph Representation Learning for Sociological Analysis
+(**TKDE, 2023**) [[paper](https://ieeexplore.ieee.org/document/10040228)]
+- <a name="todo"></a> Efficiently Counting Triangles for Hypergraph Streams by Reservoir-Based Sampling
+(**TKDE, 2023**) [[paper](https://ieeexplore.ieee.org/document/10015766)]
 - <a name="todo"></a> Hypergraph Partitioning With Embeddings
 (**TKDE, 2022**) [[paper](https://ieeexplore.ieee.org/document/9169850)]
 - <a name="todo"></a> Distributed Hypergraph Processing Using Intersection Graphs
