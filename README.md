@@ -15,6 +15,14 @@
 ## Conference Papers
 
 ### International Conference on Machine Learning
+- <a name="todo"></a> Exact Inference in High-order Structured Prediction
+(**ICML, 2023**) [[paper](https://openreview.net/forum?id=VaDX94whmE)]
+- <a name="todo"></a> From Hypergraph Energy Functions to Hypergraph Neural Networks
+(**ICML, 2023**) [[paper](https://openreview.net/forum?id=a032h8Jb9I)]
+- <a name="todo"></a> Optimal LP Rounding and Linear-Time Approximation Algorithms for Clustering Edge-Colored Hypergraphs
+(**ICML, 2023**) [[paper](https://openreview.net/forum?id=eZK32L3Pl2)]
+- <a name="todo"></a> Projected Tensor Power Method for Hypergraph Community Recovery
+(**ICML, 2023**) [[paper](https://openreview.net/forum?id=CcDKqUR546)]
 - <a name="todo"></a> Nonlinear Feature Diffusion on Hypergraphs
 (**ICML, 2022**) [[paper](https://proceedings.mlr.press/v162/prokopchik22a.html)]
 - <a name="todo"></a> Two Heads are Better Than One: Hypergraph-Enhanced Graph Reasoning for Visual Event Ratiocination
