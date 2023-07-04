@@ -455,6 +455,10 @@
 (**STOC, 2018**) [[paper](https://dl.acm.org/doi/10.1145/3188745.3188934)]
 
 ### Conference on Learning Theory
+- <a name="todo"></a> Community Detection in the Hypergraph SBM: Optimal Recovery Given the Similarity Matrix
+(**COLT, 2023**) [[paper](https://arxiv.org/abs/2208.12227)]
+- <a name="todo"></a> Weak Recovery Threshold for the Hypergraph Stochastic Block Model
+(**COLT, 2023**) [[paper](https://arxiv.org/abs/2303.14689)]
 - <a name="todo"></a> Learning Low Degree Hypergraphs
 (**COLT, 2022**) [[paper](https://proceedings.mlr.press/v178/balkanski22a.html)]
 - <a name="todo"></a> Open Problem: Average-Case Hardness of Hypergraphic Planted Clique Detection
