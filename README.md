@@ -483,6 +483,8 @@
 (**JACM, 2018**) [[paper](https://dl.acm.org/doi/10.1145/3178123)]
 
 ### Journal of Machine Learning Research
+- <a name="todo"></a> Knowledge Hypergraph Embedding Meets Relational Algebra
+(**JMLR, 2023**) [[paper](https://www.jmlr.org/papers/v24/22-063.html)]
 - <a name="todo"></a> Nonparametric modeling of higher-order interactions via hypergraphons
 (**JMLR, 2021**) [[paper](https://dl.acm.org/doi/10.5555/3546258.3546404)]
 - <a name="todo"></a> Uniform Hypergraph Partitioning: Provable Tensor Methods and Sampling Techniques
