@@ -5,8 +5,8 @@
 (**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9264674)]
 - <a name="todo"></a> More Recent Advances in (Hyper)Graph Partitioning
 (**ACM Computing Surveys, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3571808)]
-- <a name="todo"></a> A Survey on Various Representation Learning of Hypergraph for Unsupervised Feature Selection
-(**Data, Engineering and Applications, 2022**) [[paper](https://link.springer.com/chapter/10.1007/978-981-19-4687-5_6)]
+- <a name="todo"></a> A Survey on Hypergraph Representation Learning
+(**ACM Computing Surveys, 2023**) [[paper](https://dl.acm.org/doi/abs/10.1145/3605776)]
 
 # Hypergraph Learning
 
