@@ -97,6 +97,14 @@
 (**KDD, 2018**) [[paper](https://dl.acm.org/doi/10.1145/3219819.3219829)]
 
 ### International Conference on Research on Development in Information Retrieval
+- <a name="todo"></a> Spatio-Temporal Hypergraph Learning for Next POI Recommendation
+(**SIGIR, 2023**) [[paper](https://dl.acm.org/doi/10.1145/3539618.3591770)]
+- <a name="todo"></a> Multi-view Hypergraph Contrastive Policy Learning for Conversational Recommendation
+(**SIGIR, 2023**) [[paper](https://dl.acm.org/doi/10.1145/3539618.3591737)]
+- <a name="todo"></a> Next Basket Recommendation with Intent-aware Hypergraph Adversarial Network
+(**SIGIR, 2023**) [[paper](https://dl.acm.org/doi/10.1145/3539618.3591742)]
+- <a name="todo"></a> HyperFormer: Learning Expressive Sparse Feature Representations via Hypergraph Transformer
+(**SIGIR, 2023**) [[paper](https://dl.acm.org/doi/10.1145/3539618.3591999)]
 - <a name="todo"></a> Co-clustering Interactions via Attentive Hypergraph Neural Network
 (**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531868)]
 - <a name="todo"></a> Hypergraph Contrastive Collaborative Filtering
