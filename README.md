@@ -161,6 +161,12 @@
 (**AISTATS, 2018**) [[paper](https://proceedings.mlr.press/v84/mitrovic18a.html)]
 
 ### AAAI Conference on Artificial Intelligence
+- <a name="todo"></a> Nested Named Entity Recognition as Building Local Hypergraphs
+(**AAAI, 2023**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26625)]
+- <a name="todo"></a> Multi-Modal Knowledge Hypergraph for Diverse Image Retrieval
+(**AAAI, 2023**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25445)]
+- <a name="todo"></a> Exploring Hypergraph of Earnings Call for Risk Prediction
+(**AAAI, 2023**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26973)]
 - <a name="todo"></a> Hypergraph Modeling via Spectral Embedding Connection: Hypergraph Cut, Weighted Kernel k-Means, and Heat Kernel 
 (**AAAI, 2022**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20787)]
 - <a name="todo"></a> MS-HGAT: Memory-Enhanced Sequential Hypergraph Attention Network for Information Diffusion Prediction
