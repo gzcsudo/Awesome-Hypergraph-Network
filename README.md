@@ -69,6 +69,10 @@
 (**ICLR, 2020**) [[paper](https://openreview.net/forum?id=ryeHuJBtPH)]
 
 ### ACM Knowledge Discovery and Data Mining
+- <a name="todo"></a> Classification of Edge-dependent Labels of Nodes in Hypergraphs
+(**KDD, 2023**) [[paper](https://dl.acm.org/doi/10.1145/3580305.3599274)]
+- <a name="todo"></a> Mining of Real-world Hypergraphs: Patterns, Tools, and Generators
+(**KDD, 2023**) [[paper](https://dl.acm.org/doi/10.1145/3580305.3599567)]
 - <a name="todo"></a> Learning Causal Effects on Hypergraphs
 (**KDD Best Paper, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539299)]
 - <a name="todo"></a> Core-periphery Models for Hypergraphs
