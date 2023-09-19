@@ -203,6 +203,14 @@
 (**AAAI, 2018**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11761)]
 
 ### International Joint Conference on Artificial Intelligence
+- <a name="todo"></a> Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation
+(**IJCAI, 2023**) [[paper](https://www.ijcai.org/proceedings/2023/268)]
+- <a name="todo"></a> Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning
+(**IJCAI, 2023**) [[paper](https://www.ijcai.org/proceedings/2023/273)]
+- <a name="todo"></a> Totally Dynamic Hypergraph Neural Networks
+(**IJCAI, 2023**) [[paper](https://www.ijcai.org/proceedings/2023/275)]
+- <a name="todo"></a> Multi-view Contrastive Learning Hypergraph Neural Network for Drug-Microbe-Disease Association Prediction
+(**IJCAI, 2023**) [[paper](https://www.ijcai.org/proceedings/2023/537)]
 - <a name="todo"></a> Hypertron: Explicit Social-Temporal Hypergraph Framework for Multi-Agent Forecasting
 (**IJCAI, 2022**) [[paper](https://www.ijcai.org/proceedings/2022/189)]
 - <a name="todo"></a> Hypergraph Structure Learning for Hypergraph Neural Networks
