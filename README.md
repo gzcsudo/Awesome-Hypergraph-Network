@@ -249,6 +249,14 @@
 (**IJCAI, 2017**) [[paper](https://www.ijcai.org/proceedings/2017/611)]
 
 ### ACM International Conference on Information and Knowledge Management
+- <a name="todo"></a> Group Identification via Transitional Hypergraph Convolution with Cross-view Self-supervised Learning
+(**CIKM, 2023**) [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614902)]
+- <a name="todo"></a> Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph
+(**CIKM, 2023**) [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615054)]
+- <a name="todo"></a> Seq-HyGAN: Sequence Classification via Hypergraph Attention Network
+(**CIKM, 2023**) [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615057)]
+- <a name="todo"></a> Exploring Cohesive Subgraphs in Hypergraphs: The (k,g)-core Approach
+(**CIKM, 2023**) [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615275)]
 - <a name="todo"></a> Semi-supervised Hypergraph Node Classification on Hypergraph Line Expansion
 (**CIKM, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3511808.3557447)]
 - <a name="todo"></a> Click-Through Rate Prediction with Multi-Modal Hypergraphs
