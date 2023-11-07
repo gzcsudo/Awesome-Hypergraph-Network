@@ -35,6 +35,12 @@
 (**ICML, 2017**) [[paper](https://proceedings.mlr.press/v70/zhang17d.html)]
 
 ### Annual Conference on Neural Information Processing Systems
+- <a name="todo"></a> CAT-Walk: Inductive Hypergraph Learning via Set Walks
+(**NeurIPS, 2023**) [[paper](https://openreview.net/forum?id=QG4nJBNEar)]
+- <a name="todo"></a> HyTrel: Hypergraph-enhanced Tabular Data Representation Learning
+(**NeurIPS, 2023**) [[paper](https://openreview.net/forum?id=7vqlzODS28)]
+- <a name="todo"></a> Sheaf Hypergraph Networks
+(**NeurIPS, 2023**) [[paper](https://openreview.net/forum?id=NvcVXzJvhX)]
 - <a name="todo"></a> SHINE: SubHypergraph Inductive Neural nEtwork
 (**NeurIPS, 2022**) [[paper](https://openreview.net/forum?id=IsHRUzXPqhI)]
 - <a name="todo"></a> Sparse Hypergraph Community Detection Thresholds in Stochastic Block Model
