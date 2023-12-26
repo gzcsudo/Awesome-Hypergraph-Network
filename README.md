@@ -279,6 +279,10 @@
 (**CIKM, 2017**) [[paper](https://dl.acm.org/doi/abs/10.1145/3132847.3132907)]
 
 ### International Conference on Data Mining
+- <a name="todo"></a> Reciprocity in Directed Hypergraphs: Measures, Findings, and Generators
+(**ICDM, 2022**) [[paper](https://ieeexplore.ieee.org/document/10027731)]
+- <a name="todo"></a> THINK: Temporal Hypergraph Hyperbolic Network
+(**ICDM, 2022**) [[paper](https://ieeexplore.ieee.org/document/10027762)]
 - <a name="todo"></a> Hypergraph Convolutional Network for Group Recommendation
 (**ICDM, 2021**) [[paper](https://ieeexplore.ieee.org/document/9679118)]
 - <a name="todo"></a> THyMe+: Temporal Hypergraph Motifs and Fast Algorithms for Exact Counting
