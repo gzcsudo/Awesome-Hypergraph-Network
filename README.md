@@ -497,6 +497,14 @@
 (**SODA, 2016**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611974331.ch126)]
 
 ### ACM Symposium on Theory of Computing
+- <a name="todo"></a> Chaining, Group Leverage Score Overestimates, and Fast Spectral Hypergraph Sparsification
+(**STOC, 2023**) [[paper](https://dl.acm.org/doi/abs/10.1145/3564246.3585136)]
+- <a name="todo"></a> Cheeger Inequalities for Directed Graphs and Hypergraphs using Reweighted Eigenvalues
+(**STOC, 2023**) [[paper](https://dl.acm.org/doi/abs/10.1145/3564246.3585139)]
+- <a name="todo"></a> Algorithmic Applications of Hypergraph and Partition Containers
+(**STOC, 2023**) [[paper](https://dl.acm.org/doi/abs/10.1145/3564246.3585163)]
+- <a name="todo"></a> Spectral Hypergraph Sparsification via Chaining
+(**STOC, 2023**) [[paper](https://dl.acm.org/doi/abs/10.1145/3564246.3585165)]
 - <a name="todo"></a> Towards tight bounds for spectral sparsification of hypergraphs
 (**STOC, 2021**) [[paper](https://dl.acm.org/doi/10.1145/3406325.3451061)]
 - <a name="todo"></a> Extractors for adversarial sources via extremal hypergraphs
@@ -515,6 +523,8 @@
 (**COLT, 2020**) [[paper](http://proceedings.mlr.press/v125/luo20a.html)]
 
 ### European Symposium on Algorithms
+- <a name="todo"></a> Counting Simplices in Hypergraph Streams
+(**ESA, 2022**) [[paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2022.32)]
 - <a name="todo"></a> Fully Dynamic Set Cover via Hypergraph Maximal Matching: An Optimal Approximation Through a Local Approach
 (**ESA, 2021**) [[paper](https://drops.dagstuhl.de/opus/volltexte/2021/14589/)]
 - <a name="todo"></a> The Minimization of Random Hypergraphs
@@ -535,6 +545,8 @@
 (**JACM, 2018**) [[paper](https://dl.acm.org/doi/10.1145/3178123)]
 
 ### Journal of Machine Learning Research
+- <a name="todo"></a> Augmented Sparsifiers for Generalized Hypergraph Cuts
+(**JMLR, 2023**) [[paper](https://www.jmlr.org/papers/v24/22-0305.html)]
 - <a name="todo"></a> Knowledge Hypergraph Embedding Meets Relational Algebra
 (**JMLR, 2023**) [[paper](https://www.jmlr.org/papers/v24/22-063.html)]
 - <a name="todo"></a> Nonparametric modeling of higher-order interactions via hypergraphons
