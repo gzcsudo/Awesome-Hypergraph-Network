@@ -307,16 +307,24 @@
 ## Journal Papers
 
 ### IEEE Transactions on Pattern Analysis and Machine Intelligence
+- <a name="todo"></a> Hypergraph Isomorphism Computation
+(**TPAMI, 2024**) [[paper](https://ieeexplore.ieee.org/document/10398457)]
+- <a name="todo"></a> HGNN+: General Hypergraph Neural Networks
+(**TPAMI, 2023**) [[paper](https://ieeexplore.ieee.org/document/9795251)]
+- <a name="todo"></a> Hypergraph Collaborative Network on Vertices and Hyperedges
+(**TPAMI, 2023**) [[paper](https://ieeexplore.ieee.org/document/9782536)]
+- <a name="todo"></a> Messages are Never Propagated Alone: Collaborative Hypergraph Neural Network for Time-Series Forecasting
+(**TPAMI, 2023**) [[paper](https://ieeexplore.ieee.org/document/10314020)]
+- <a name="todo"></a> Continual Image Deraining With Hypergraph Convolutional Networks
+(**TPAMI, 2023**) [[paper](https://ieeexplore.ieee.org/document/10035447)]
+- <a name="todo"></a> Generating Hypergraph-Based High-Order Representations of Whole-Slide Histopathological Images for Survival Prediction
+(**TPAMI, 2023**) [[paper](https://ieeexplore.ieee.org/document/9903546)]
+- <a name="todo"></a> Hypergraph-Based Multi-Modal Representation for Open-Set 3D Object Retrieval
+(**TPAMI, 2023**) [[paper](https://ieeexplore.ieee.org/document/10319392)]
 - <a name="todo"></a> Hypergraph Learning: Methods and Practices
 (**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9264674)]
-- <a name="todo"></a> HGNN+: General Hypergraph Neural Networks
-(**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9795251)]
 - <a name="todo"></a> Heterogeneous Hypergraph Variational Autoencoder for Link Prediction
 (**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9354594)]
-- <a name="todo"></a> Hypergraph Collaborative Network on Vertices and Hyperedges
-(**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9782536)]
-- <a name="todo"></a> Generating Hypergraph-Based High-Order Representations of Whole-Slide Histopathological Images for Survival Prediction
-(**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9903546)]
 - <a name="todo"></a> Neural Graph Matching Network: Learning Lawler’s Quadratic Assignment Problem With Extension to Hypergraph and Multiple-Graph Matching
 (**TPAMI, 2022**) [[paper](https://ieeexplore.ieee.org/document/9426408)]
 - <a name="todo"></a> Learning on Hypergraphs With Sparsity
@@ -331,6 +339,14 @@
 (**TPAMI, 2016**) [[paper](https://ieeexplore.ieee.org/document/7360186)]
 
 ### IEEE Transactions on Knowledge and Data Engineering
+- <a name="todo"></a> HyperISO: Efficiently Searching Subgraph Containment in Hypergraphs
+(**TKDE, 2023**) [[paper](https://ieeexplore.ieee.org/document/9875064)]
+- <a name="todo"></a> Adaptive Hypergraph Auto-Encoder for Relational Data Clustering
+(**TKDE, 2023**) [[paper](https://ieeexplore.ieee.org/document/9525190)]
+- <a name="todo"></a> Penalized Flow Hypergraph Local Clustering
+(**TKDE, 2023**) [[paper](https://ieeexplore.ieee.org/document/10262346)]
+- <a name="todo"></a> Hypergraph Representation for Detecting 3D Objects From Noisy Point Clouds
+(**TKDE, 2023**) [[paper](https://ieeexplore.ieee.org/document/9788570)]
 - <a name="todo"></a> Self-Supervised Hypergraph Representation Learning for Sociological Analysis
 (**TKDE, 2023**) [[paper](https://ieeexplore.ieee.org/document/10040228)]
 - <a name="todo"></a> Efficiently Counting Triangles for Hypergraph Streams by Reservoir-Based Sampling
@@ -359,6 +375,10 @@
 (**TKDE, 2017**) [[paper](https://ieeexplore.ieee.org/document/7833129)]
 
 ### IEEE Transactions on Image Processing
+- <a name="todo"></a> Brain Network Analysis of Schizophrenia Patients Based on Hypergraph Signal Processing
+(**TIP, 2023**) [[paper](https://ieeexplore.ieee.org/document/10233202)]
+- <a name="todo"></a> Multimodal Remote Sensing Image Segmentation With Intuition-Inspired Hypergraph Modeling
+(**TIP, 2023**) [[paper](https://ieeexplore.ieee.org/document/10049798)]
 - <a name="todo"></a> An Efficient Hypergraph Approach to Robust Point Cloud Resampling
 (**TIP, 2022**) [[paper](https://ieeexplore.ieee.org/document/9709703)]
 - <a name="todo"></a> Big-Hypergraph Factorization Neural Network for Survival Prediction From Whole Slide Image
@@ -381,8 +401,12 @@
 (**TIP, 2017**) [[paper](https://ieeexplore.ieee.org/document/7707352)]
 
 ### IEEE Transactions on Neural Networks and Learning Systems
+- <a name="todo"></a> Central-Smoothing Hypergraph Neural Networks for Predicting Drug–Drug Interactions
+(**TNNLS, 2023**) [[paper](https://ieeexplore.ieee.org/document/10091150)]
+- <a name="todo"></a> Modeling High-Order Relationships: Brain-Inspired Hypergraph-Induced Multimodal-Multitask Framework for Semantic Comprehension
+(**TNNLS, 2023**) [[paper](https://ieeexplore.ieee.org/document/10068184)]
 - <a name="todo"></a> Music Recommendation via Hypergraph Embedding
-(**TNNLS, 2022**) [[paper](https://ieeexplore.ieee.org/document/9709542)]
+(**TNNLS, 2023**) [[paper](https://ieeexplore.ieee.org/document/9709542)]
 - <a name="todo"></a> Hypergraph Structural Information Aggregation Generative Adversarial Networks for Diagnosis and Pathogenetic Factors Identification of Alzheimer’s Disease With Imaging Genetic Data
 (**TNNLS, 2022**) [[paper](https://ieeexplore.ieee.org/document/9925992)]
 - <a name="todo"></a> Multi-Atlas Segmentation of Anatomical Brain Structures Using Hierarchical Hypergraph Learning
@@ -395,8 +419,10 @@
 (**TNNLS, 2017**) [[paper](https://ieeexplore.ieee.org/document/7560601)]
 
 ### IEEE Transactions on Cybernetics
+- <a name="todo"></a> Prior-Guided Adversarial Learning With Hypergraph for Predicting Abnormal Connections in Alzheimer’s Disease
+(**TCYB, 2024**) [[paper](https://ieeexplore.ieee.org/document/10403983)]
 - <a name="todo"></a> Cost-Sensitive Hypergraph Learning With F-Measure Optimization
-(**TCYB, 2021**) [[paper](https://ieeexplore.ieee.org/document/9626567)]
+(**TCYB, 2023**) [[paper](https://ieeexplore.ieee.org/document/9626567)]
 - <a name="todo"></a> Correntropy-Based Hypergraph Regularized NMF for Clustering and Feature Selection on Multi-Cancer Integrated Data
 (**TCYB, 2021**) [[paper](https://ieeexplore.ieee.org/document/9130073)]
 - <a name="todo"></a> Feature Learning Using Spatial-Spectral Hypergraph Discriminant Analysis for Hyperspectral Image
@@ -409,10 +435,12 @@
 (**TCYB, 2017**) [[paper](https://ieeexplore.ieee.org/document/7605530)]
 
 ### IEEE Transactions on Multimedia
+- <a name="todo"></a> Automatic Hypergraph Generation for Enhancing Recommendation with Sparse Optimization
+(**TMM, 2023**) [[paper](https://ieeexplore.ieee.org/document/10336546)]
 - <a name="todo"></a> Adaptive Multi-Hypergraph Convolutional Networks for 3D Object Classification
-(**TMM, 2022**) [[paper](https://ieeexplore.ieee.org/document/9797873)]
+(**TMM, 2023**) [[paper](https://ieeexplore.ieee.org/document/9797873)]
 - <a name="todo"></a> A Universal Quaternion Hypergraph Network for Multimodal Video Question Answering
-(**TMM, 2021**) [[paper](https://ieeexplore.ieee.org/document/9576650)]
+(**TMM, 2023**) [[paper](https://ieeexplore.ieee.org/document/9576650)]
 - <a name="todo"></a> Object Cosegmentation in Noisy Videos With Multilevel Hypergraph
 (**TMM, 2021**) [[paper](https://ieeexplore.ieee.org/document/9095232)]
 - <a name="todo"></a> Cross-Modality Microblog Sentiment Prediction via Bi-Layer Multimodal Hypergraph Learning
