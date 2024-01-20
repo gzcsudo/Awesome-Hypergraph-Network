@@ -63,6 +63,14 @@
 (**NeurIPS, 2017**) [[paper](https://proceedings.neurips.cc/paper/2017/hash/a50abba8132a77191791390c3eb19fe7-Abstract.html)]
 
 ### International Conference on Learning Representations
+- <a name="todo"></a> From Graphs to Hypergraphs: Hypergraph Projection and its Remediation
+(**ICLR, 2024**) [[paper](https://openreview.net/forum?id=qwYKE3VB2h)]
+- <a name="todo"></a> Hypergraph Dynamic System
+(**ICLR, 2024**) [[paper](https://openreview.net/forum?id=NLbRvr840Q)]
+- <a name="todo"></a> HypeBoy: Generative Self-Supervised Representation Learning on Hypergraphs
+(**ICLR, 2024**) [[paper](https://openreview.net/forum?id=DZUzOKE6og)]
+- <a name="todo"></a> LightHGNN: Distilling Hypergraph Neural Networks into MLPs for 100x Faster Inference
+(**ICLR, 2024**) [[paper](https://openreview.net/forum?id=lHasEfGsXL)]
 - <a name="todo"></a> Equivariant Hypergraph Diffusion Neural Operators
 (**ICLR, 2023**) [[paper](https://openreview.net/forum?id=RiTjKoscnNd)]
 - <a name="todo"></a> Ollivier-Ricci Curvature for Hypergraphs: A Unified Framework
@@ -536,6 +544,10 @@
 
 ### IEEE Transactions on Information Theory
 
+- <a name="todo"></a> Pliable Index Coding via Conflict-Free Colorings of Hypergraphs
+(**TIT, 2024**) [[paper](https://ieeexplore.ieee.org/document/10403947)]
+- <a name="todo"></a> Strong Consistency of Spectral Clustering for the Sparse Degree-Corrected Hypergraph Stochastic Block Model
+(**TIT, 2023**) [[paper](https://ieeexplore.ieee.org/document/10214123)]
 - <a name="todo"></a> Exact Recovery in the General Hypergraph Stochastic Block Model
 (**TIT, 2023**) [[paper](https://ieeexplore.ieee.org/document/9887955)]
 - <a name="todo"></a> Limitations on Transversal Gates for Hypergraph Product Codes
