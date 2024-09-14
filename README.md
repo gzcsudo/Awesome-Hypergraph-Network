@@ -13,6 +13,12 @@
 ## Conference Papers
 
 ### International Conference on Machine Learning
+- <a name="todo"></a> Fast Algorithms for Hypergraph PageRank with Applications to Semi-Supervised Learning
+(**ICML, 2024**) [[paper](https://proceedings.mlr.press/v235/ameranis24a.html)]
+- <a name="todo"></a> Relational Learning in Pre-Trained Models: A Theory from Hypergraph Recovery Perspective
+(**ICML, 2024**) [[paper](https://proceedings.mlr.press/v235/chen24l.html)]
+- <a name="todo"></a> Hypergraph-enhanced Dual Semi-supervised Graph Classification
+(**ICML, 2024**) [[paper](https://proceedings.mlr.press/v235/ju24a.html)]
 - <a name="todo"></a> Exact Inference in High-order Structured Prediction
 (**ICML, 2023**) [[paper](https://openreview.net/forum?id=VaDX94whmE)]
 - <a name="todo"></a> From Hypergraph Energy Functions to Hypergraph Neural Networks
