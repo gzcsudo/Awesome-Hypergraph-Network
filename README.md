@@ -547,6 +547,10 @@
 (**STOC, 2018**) [[paper](https://dl.acm.org/doi/10.1145/3188745.3188934)]
 
 ### Conference on Learning Theory
+- <a name="todo"></a> Thresholds for Reconstruction of Random Hypergraphs From Graph Projections
+(**COLT, 2024**) [[paper](https://proceedings.mlr.press/v247/bresler24a.html)]
+- <a name="todo"></a> Community detection in the hypergraph stochastic block model and reconstruction on hypertrees
+(**COLT, 2024**) [[paper](https://proceedings.mlr.press/v247/gu24a.html)]
 - <a name="todo"></a> Community Detection in the Hypergraph SBM: Optimal Recovery Given the Similarity Matrix
 (**COLT, 2023**) [[paper](https://proceedings.mlr.press/v195/gaudio23a.html)]
 - <a name="todo"></a> Weak Recovery Threshold for the Hypergraph Stochastic Block Model
