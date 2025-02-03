@@ -7,6 +7,8 @@
 (**ACM Computing Surveys, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3571808)]
 - <a name="todo"></a> A Survey on Hypergraph Representation Learning
 (**ACM Computing Surveys, 2023**) [[paper](https://dl.acm.org/doi/abs/10.1145/3605776)]
+- <a name="todo"></a> A Survey on Hypergraph Neural Networks: An In-Depth and Step-By-Step Guide
+(**KDD, 2024**) [[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671457)]
 
 # Hypergraph Learning
 
@@ -397,6 +399,12 @@
 ## Journal Papers
 
 ### IEEE Transactions on Pattern Analysis and Machine Intelligence
+- <a name="todo"></a> Hyper-YOLO: When Visual Object Detection Meets Hypergraph Computation
+(**TPAMI, 2025**) [[paper](https://ieeexplore.ieee.org/document/10818703)]
+- <a name="todo"></a> Adaptive Neural Message Passing for Inductive Learning on Hypergraphs
+(**TPAMI, 2025**) [[paper](https://ieeexplore.ieee.org/document/10612216)]
+- <a name="todo"></a> Hypergraph-Based Multi-View Action Recognition Using Event Cameras
+(**TPAMI, 2024**) [[paper](https://ieeexplore.ieee.org/document/10480584)]
 - <a name="todo"></a> Hypergraph Isomorphism Computation
 (**TPAMI, 2024**) [[paper](https://ieeexplore.ieee.org/document/10398457)]
 - <a name="todo"></a> HGNN+: General Hypergraph Neural Networks
@@ -429,6 +437,16 @@
 (**TPAMI, 2016**) [[paper](https://ieeexplore.ieee.org/document/7360186)]
 
 ### IEEE Transactions on Knowledge and Data Engineering
+- <a name="todo"></a> HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding
+(**TKDE, 2025**) [[paper](https://ieeexplore.ieee.org/document/10845179)]
+- <a name="todo"></a> Dual-View Desynchronization Hypergraph Learning for Dynamic Hyperedge Prediction
+(**TKDE, 2025**) [[paper](https://ieeexplore.ieee.org/document/10771713)]
+- <a name="todo"></a> Multi-Behavior Hypergraph Contrastive Learning for Session-Based Recommendation
+(**TKDE, 2025**) [[paper](https://ieeexplore.ieee.org/document/10816604)]
+- <a name="todo"></a> CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network
+(**TKDE, 2024**) [[paper](https://ieeexplore.ieee.org/document/10478209)]
+- <a name="todo"></a> HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion
+(**TKDE, 2024**) [[paper](https://ieeexplore.ieee.org/document/10436025)]
 - <a name="todo"></a> HyperISO: Efficiently Searching Subgraph Containment in Hypergraphs
 (**TKDE, 2023**) [[paper](https://ieeexplore.ieee.org/document/9875064)]
 - <a name="todo"></a> Adaptive Hypergraph Auto-Encoder for Relational Data Clustering
@@ -447,8 +465,6 @@
 (**TKDE, 2022**) [[paper](https://ieeexplore.ieee.org/document/9187569)]
 - <a name="todo"></a> Data Representation by Joint Hypergraph Embedding and Sparse Coding
 (**TKDE, 2022**) [[paper](https://ieeexplore.ieee.org/document/9141415)]
-- <a name="todo"></a> HyperISO: Efficiently Searching Subgraph Containment in Hypergraphs
-(**TKDE, 2022**) [[paper](https://ieeexplore.ieee.org/document/9875064)]
 - <a name="todo"></a> Hypergraph Representation for Detecting 3D Objects from Noisy Point Clouds
 (**TKDE, 2022**) [[paper](https://ieeexplore.ieee.org/document/9788570)]
 - <a name="todo"></a> LBSN2Vec++: Heterogeneous Hypergraph Embedding for Location-Based Social Networks
@@ -465,6 +481,10 @@
 (**TKDE, 2017**) [[paper](https://ieeexplore.ieee.org/document/7833129)]
 
 ### IEEE Transactions on Image Processing
+- <a name="todo"></a> Multi-View Time-Series Hypergraph Neural Network for Action Recognition
+(**TIP, 2024**) [[paper](https://ieeexplore.ieee.org/document/10517892)]
+- <a name="todo"></a> DHM-Net: Deep Hypergraph Modeling for Robust Feature Matching
+(**TIP, 2024**) [[paper](https://ieeexplore.ieee.org/document/10720713)]
 - <a name="todo"></a> Brain Network Analysis of Schizophrenia Patients Based on Hypergraph Signal Processing
 (**TIP, 2023**) [[paper](https://ieeexplore.ieee.org/document/10233202)]
 - <a name="todo"></a> Multimodal Remote Sensing Image Segmentation With Intuition-Inspired Hypergraph Modeling
@@ -491,6 +511,14 @@
 (**TIP, 2017**) [[paper](https://ieeexplore.ieee.org/document/7707352)]
 
 ### IEEE Transactions on Neural Networks and Learning Systems
+- <a name="todo"></a> T-HyperGNNs: Hypergraph Neural Networks via Tensor Representations
+(**TNNLS, 2024**) [[paper](https://ieeexplore.ieee.org/document/10462516)]
+- <a name="todo"></a> Dual-Channel Adaptive Scale Hypergraph Encoders With Cross-View Contrastive Learning for Knowledge Tracing
+(**TNNLS, 2024**) [[paper](https://ieeexplore.ieee.org/document/10506993)]
+- <a name="todo"></a> Dynamical Attention Hypergraph Convolutional Network for Group Activity Recognition
+(**TNNLS, 2024**) [[paper](https://ieeexplore.ieee.org/document/10613468)]
+- <a name="todo"></a> Formulating and Representing Multiagent Systems With Hypergraphs
+(**TNNLS, 2024**) [[paper](https://ieeexplore.ieee.org/document/10449457)]
 - <a name="todo"></a> Central-Smoothing Hypergraph Neural Networks for Predicting Drug–Drug Interactions
 (**TNNLS, 2023**) [[paper](https://ieeexplore.ieee.org/document/10091150)]
 - <a name="todo"></a> Modeling High-Order Relationships: Brain-Inspired Hypergraph-Induced Multimodal-Multitask Framework for Semantic Comprehension
@@ -525,6 +553,12 @@
 (**TCYB, 2017**) [[paper](https://ieeexplore.ieee.org/document/7605530)]
 
 ### IEEE Transactions on Multimedia
+- <a name="todo"></a> Hypergraph-Based Remaining Prototype Alignment for Open-Set Cross-Domain Image Retrieval
+(**TMM, 2025**) [[paper](https://ieeexplore.ieee.org/document/10855490)]
+- <a name="todo"></a> A Hypergraph based Contextual Relationship Modeling Method for Multimodal Emotion Recognition in Conversation
+(**TMM, 2024**) [[paper](https://ieeexplore.ieee.org/document/10814724)]
+- <a name="todo"></a> Exploring Local and Global Consistent Correlation on Hypergraph for Rotation Invariant Point Cloud Analysis
+(**TMM, 2024**) [[paper](https://ieeexplore.ieee.org/document/10814079)]
 - <a name="todo"></a> Automatic Hypergraph Generation for Enhancing Recommendation with Sparse Optimization
 (**TMM, 2023**) [[paper](https://ieeexplore.ieee.org/document/10336546)]
 - <a name="todo"></a> Adaptive Multi-Hypergraph Convolutional Networks for 3D Object Classification
@@ -545,6 +579,8 @@
 ## Conference Papers
 
 ### IEEE Annual Symposium on Foundations of Computer Science
+- <a name="todo"></a> Near-Optimal Size Linear Sketches for Hypergraph Cut Sparsifiers
+(**FOCS, 2024**) [[paper](https://ieeexplore.ieee.org/document/10756080)]
 - <a name="todo"></a> Sparse random hypergraphs: Non-backtracking spectra and community detection
 (**FOCS, 2022**) [[paper](https://ieeexplore.ieee.org/document/9996873)]
 - <a name="todo"></a> Performance and limitations of the QAOA at constant levels on large sparse hypergraphs and spin glass models
@@ -570,13 +606,13 @@
 
 ### ACM-SIAM Symposium on Discrete Algorithms
 - <a name="todo"></a> Conflict-free hypergraph matchings
-(**SODA, 2023**) [[paper](https://arxiv.org/abs/2205.05564)]
-- <a name="todo"></a> Zigzagging through acyclic orientations of chordal graphs and hypergraphs
-(**SODA, 2023**) 
-- <a name="todo"></a> A simple and sharper proof of the hypergraph Moore bound
-(**SODA, 2023**) [[paper](https://arxiv.org/abs/2207.10850)]
+(**SODA, 2023**) [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977554.ch115)]
 - <a name="todo"></a> Distributed Maximal Matching and Maximal Independent Set on Hypergraphs
-(**SODA, 2023**) [[paper](https://arxiv.org/abs/2211.01945)]
+(**SODA, 2023**) [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977554.ch100)]
+- <a name="todo"></a> A simple and sharper proof of the hypergraph Moore bound
+(**SODA, 2023**) [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977554.ch89)]
+- <a name="todo"></a> Zigzagging through acyclic orientations of chordal graphs and hypergraphs
+(**SODA, 2023**) [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977554.ch117)]
 - <a name="todo"></a> On the complexity of binary polynomial optimization over acyclic hypergraphs
 (**SODA, 2022**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611977073.105)]
 - <a name="todo"></a> Approximate Hypergraph Vertex Cover and generalized Tuza's conjecture
@@ -615,6 +651,10 @@
 (**SODA, 2016**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611974331.ch126)]
 
 ### ACM Symposium on Theory of Computing
+- <a name="todo"></a> New Graph and Hypergraph Container Lemmas with Applications in Property Testing
+(**STOC, 2024**) [[paper](https://dl.acm.org/doi/abs/10.1145/3618260.3649708)]
+- <a name="todo"></a> Hypergraph Unreliability in Quasi-Polynomial Time
+(**STOC, 2024**) [[paper](https://dl.acm.org/doi/10.1145/3618260.3649753)]
 - <a name="todo"></a> Chaining, Group Leverage Score Overestimates, and Fast Spectral Hypergraph Sparsification
 (**STOC, 2023**) [[paper](https://dl.acm.org/doi/abs/10.1145/3564246.3585136)]
 - <a name="todo"></a> Cheeger Inequalities for Directed Graphs and Hypergraphs using Reweighted Eigenvalues
@@ -645,6 +685,8 @@
 (**COLT, 2020**) [[paper](http://proceedings.mlr.press/v125/luo20a.html)]
 
 ### European Symposium on Algorithms
+- <a name="todo"></a> Hypergraph Connectivity Augmentation in Strongly Polynomial Time
+(**ESA, 2024**) [[paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2024.22)]
 - <a name="todo"></a> Counting Simplices in Hypergraph Streams
 (**ESA, 2022**) [[paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2022.32)]
 - <a name="todo"></a> Fully Dynamic Set Cover via Hypergraph Maximal Matching: An Optimal Approximation Through a Local Approach
@@ -677,7 +719,8 @@
 (**JMLR, 2017**) [[paper](https://dl.acm.org/doi/abs/10.5555/3122009.3153006)]
 
 ### IEEE Transactions on Information Theory
-
+- <a name="todo"></a> Degree Heterogeneity in Higher-Order Networks: Inference in the Hypergraph β-Model
+(**TIT, 2024**) [[paper](https://ieeexplore.ieee.org/document/10552775)]
 - <a name="todo"></a> Pliable Index Coding via Conflict-Free Colorings of Hypergraphs
 (**TIT, 2024**) [[paper](https://ieeexplore.ieee.org/document/10403947)]
 - <a name="todo"></a> Strong Consistency of Spectral Clustering for the Sparse Degree-Corrected Hypergraph Stochastic Block Model
@@ -702,6 +745,8 @@
 (**TIT, 2017**) [[paper](https://ieeexplore.ieee.org/document/7792727)]
 
 # Hypergraph Tutorial 
+- <a name="todo"></a> Hypergraph Neural Networks: An In-Depth and Step-By-Step Guide
+(**KDD, 2024**) [[website](https://sites.google.com/view/hnn-tutorial)]
 - <a name="todo"></a> Mining of Real-world Hypergraphs: Patterns, Tools, and Generators 
 (**CIKM, 2022**) [[website](https://sites.google.com/view/hypergraph-tutorial)]
 - <a name="todo"></a> Multimodal deep learning on hypergraphs
